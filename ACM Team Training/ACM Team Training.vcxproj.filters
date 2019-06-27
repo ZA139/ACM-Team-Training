@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Ugly Numbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Rails.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Uva10474.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="The Block Problem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy As A+B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="开门人和关门人（WA%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计数问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="游泳航程%28AC%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ISBN.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="开门人和关门人.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排名%28STL WA%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Milk.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排名.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="The Third Cup is Free .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A Math Problem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="POJ 3070 Fabonacci（矩阵快速幂）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A Simple Math Problem%28exgcd%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Your Ride is here.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="青蛙见面.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="又见GCD.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="素数回文%28MLE%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="素数回文（无耻的打表）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="美素数%28TLE%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="苹果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="谁没睡.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Fancy Fence .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="T-primes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cf b.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zhl飞行棋.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1002 DFS（TLE）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="【洛谷】密码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="迷宫.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RopeWALKER.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Email frome Polycarp%28WA%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Vim.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="txt.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

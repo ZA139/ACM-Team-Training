@@ -1,0 +1,2063 @@
+turns: 1    it's Green's turn
+You threw a 6
+Plane Green 1 has taken off.
+You threw a 4
+Plane Green 1 moved.
+0 0 0 0        0 0 0 0 
+5 0 0 0        24 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 2    it's Red's turn
+You threw a 1
+0 0 0 0        0 0 0 0 
+5 0 0 0        24 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 3    it's Yellow's turn
+You threw a 2
+0 0 0 0        0 0 0 0 
+5 0 0 0        24 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 4    it's Blue's turn
+You threw a 6
+Plane Blue 1 has taken off.
+You threw a 1
+Plane Blue 1 moved.
+6 0 0 0        12 0 0 0 
+5 0 0 0        24 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 5    it's Green's turn
+You threw a 5
+Plane Green 1 moved.
+6 0 0 0        12 0 0 0 
+14 0 0 0        33 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 6    it's Red's turn
+You threw a 1
+6 0 0 0        12 0 0 0 
+14 0 0 0        33 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 7    it's Yellow's turn
+You threw a 5
+6 0 0 0        12 0 0 0 
+14 0 0 0        33 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 8    it's Blue's turn
+You threw a 4
+Plane Blue 1 moved.
+14 0 0 0        20 0 0 0 
+14 0 0 0        33 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 9    it's Green's turn
+You threw a 5
+Plane Green 1 moved.
+14 0 0 0        20 0 0 0 
+19 0 0 0        38 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 10    it's Red's turn
+You threw a 5
+14 0 0 0        20 0 0 0 
+19 0 0 0        38 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 11    it's Yellow's turn
+You threw a 5
+14 0 0 0        20 0 0 0 
+19 0 0 0        38 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 12    it's Blue's turn
+You threw a 4
+Plane Blue 1 moved.
+22 0 0 0        28 0 0 0 
+19 0 0 0        38 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 13    it's Green's turn
+You threw a 4
+Plane Green 1 moved.
+22 0 0 0        28 0 0 0 
+23 0 0 0        42 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 14    it's Red's turn
+You threw a 5
+22 0 0 0        28 0 0 0 
+23 0 0 0        42 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 15    it's Yellow's turn
+You threw a 2
+22 0 0 0        28 0 0 0 
+23 0 0 0        42 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 16    it's Blue's turn
+You threw a 3
+Plane Blue 1 moved.
+25 0 0 0        31 0 0 0 
+23 0 0 0        42 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 17    it's Green's turn
+You threw a 4
+Plane Green 1 moved.
+25 0 0 0        31 0 0 0 
+27 0 0 0        46 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 18    it's Red's turn
+You threw a 4
+25 0 0 0        31 0 0 0 
+27 0 0 0        46 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 19    it's Yellow's turn
+You threw a 5
+25 0 0 0        31 0 0 0 
+27 0 0 0        46 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 20    it's Blue's turn
+You threw a 4
+Plane Blue 1 moved.
+29 0 0 0        35 0 0 0 
+27 0 0 0        46 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 21    it's Green's turn
+You threw a 5
+Plane Green 1 moved.
+29 0 0 0        35 0 0 0 
+32 0 0 0        51 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 22    it's Red's turn
+You threw a 3
+29 0 0 0        35 0 0 0 
+32 0 0 0        51 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 23    it's Yellow's turn
+You threw a 3
+29 0 0 0        35 0 0 0 
+32 0 0 0        51 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 24    it's Blue's turn
+You threw a 3
+Plane Blue 1 moved.
+32 0 0 0        38 0 0 0 
+32 0 0 0        51 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 25    it's Green's turn
+You threw a 4
+Plane Green 1 moved.
+32 0 0 0        38 0 0 0 
+36 0 0 0        55 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 26    it's Red's turn
+You threw a 6
+Plane Red 1 has taken off.
+You threw a 5
+Plane Red 1 moved.
+32 0 0 0        38 0 0 0 
+36 0 0 0        55 0 0 0 
+10 0 0 0        42 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 27    it's Yellow's turn
+You threw a 3
+32 0 0 0        38 0 0 0 
+36 0 0 0        55 0 0 0 
+10 0 0 0        42 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 28    it's Blue's turn
+You threw a 2
+Plane Blue 1 moved.
+Plane Red 1 crashed.
+38 0 0 0        44 0 0 0 
+36 0 0 0        55 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 29    it's Green's turn
+You threw a 3
+Plane Green 1 moved.
+38 0 0 0        44 0 0 0 
+39 0 0 0        58 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 30    it's Red's turn
+You threw a 2
+38 0 0 0        44 0 0 0 
+39 0 0 0        58 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 31    it's Yellow's turn
+You threw a 3
+38 0 0 0        44 0 0 0 
+39 0 0 0        58 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 32    it's Blue's turn
+You threw a 1
+Plane Blue 1 moved.
+39 0 0 0        45 0 0 0 
+39 0 0 0        58 0 0 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 33    it's Green's turn
+You threw a 6
+Plane Green 2 has taken off.
+You threw a 6
+Plane Green 3 has taken off.
+You threw a 1
+Plane Green 1 moved.
+39 0 0 0        45 0 0 0 
+40 1 1 0        59 20 20 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 34    it's Red's turn
+You threw a 2
+39 0 0 0        45 0 0 0 
+40 1 1 0        59 20 20 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 35    it's Yellow's turn
+You threw a 3
+39 0 0 0        45 0 0 0 
+40 1 1 0        59 20 20 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 36    it's Blue's turn
+You threw a 4
+Plane Blue 1 moved.
+Plane Yellow 1 crashed.
+43 0 0 0        49 0 0 0 
+40 1 1 0        59 20 20 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 37    it's Green's turn
+You threw a 3
+Plane Green 1 moved.
+43 0 0 0        49 0 0 0 
+43 1 1 0        62 20 20 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 38    it's Red's turn
+You threw a 2
+43 0 0 0        49 0 0 0 
+43 1 1 0        62 20 20 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 39    it's Yellow's turn
+You threw a 5
+43 0 0 0        49 0 0 0 
+43 1 1 0        62 20 20 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 40    it's Blue's turn
+You threw a 3
+Plane Blue 1 moved.
+50 0 0 0        56 0 0 0 
+43 1 1 0        62 20 20 0 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 41    it's Green's turn
+You threw a 6
+Plane Green 4 has taken off.
+You threw a 3
+Plane Green 1 moved.
+50 0 0 0        56 0 0 0 
+50 1 1 1        69 20 20 20 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 42    it's Red's turn
+You threw a 5
+50 0 0 0        56 0 0 0 
+50 1 1 1        69 20 20 20 
+0 0 0 0        0 0 0 0 
+0 0 0 0        0 0 0 0 
+--------------------
+turns: 43    it's Yellow's turn
+You threw a 6
+Plane Yellow 1 has taken off.
+You threw a 2
+Plane Yellow 1 moved.
+50 0 0 0        56 0 0 0 
+50 1 1 1        69 20 20 20 
+0 0 0 0        0 0 0 0 
+3 0 0 0        48 0 0 0 
+--------------------
+turns: 44    it's Blue's turn
+You threw a 2
+Plane Blue 1 moved.
+52 0 0 0        58 0 0 0 
+50 1 1 1        69 20 20 20 
+0 0 0 0        0 0 0 0 
+3 0 0 0        48 0 0 0 
+--------------------
+turns: 45    it's Green's turn
+You threw a 2
+Plane Green 1 moved.
+52 0 0 0        58 0 0 0 
+52 1 1 1        71 20 20 20 
+0 0 0 0        0 0 0 0 
+3 0 0 0        48 0 0 0 
+--------------------
+turns: 46    it's Red's turn
+You threw a 6
+Plane Red 1 has taken off.
+You threw a 5
+Plane Red 1 moved.
+52 0 0 0        58 0 0 0 
+52 1 1 1        71 20 20 20 
+10 0 0 0        42 0 0 0 
+3 0 0 0        48 0 0 0 
+--------------------
+turns: 47    it's Yellow's turn
+You threw a 1
+Plane Yellow 1 moved.
+52 0 0 0        58 0 0 0 
+52 1 1 1        71 20 20 20 
+10 0 0 0        42 0 0 0 
+4 0 0 0        49 0 0 0 
+--------------------
+turns: 48    it's Blue's turn
+You threw a 4
+Plane Blue 1 reached the destination.
+0 0 0 0        * 0 0 0 
+52 1 1 1        71 20 20 20 
+10 0 0 0        42 0 0 0 
+4 0 0 0        49 0 0 0 
+--------------------
+turns: 49    it's Green's turn
+You threw a 6
+Plane Green 1 reached the destination.
+You threw a 3
+Plane Green 2 moved.
+0 0 0 0        * 0 0 0 
+0 4 1 1        * 23 20 20 
+10 0 0 0        42 0 0 0 
+4 0 0 0        49 0 0 0 
+--------------------
+turns: 50    it's Red's turn
+You threw a 6
+Plane Red 2 has taken off.
+You threw a 2
+Plane Red 1 moved.
+0 0 0 0        * 0 0 0 
+0 4 1 1        * 23 20 20 
+12 1 0 0        44 33 0 0 
+4 0 0 0        49 0 0 0 
+--------------------
+turns: 51    it's Yellow's turn
+You threw a 6
+Plane Yellow 2 has taken off.
+You threw a 6
+Plane Yellow 3 has taken off.
+You threw a 2
+Plane Yellow 1 moved.
+0 0 0 0        * 0 0 0 
+0 4 1 1        * 23 20 20 
+12 1 0 0        44 33 0 0 
+10 1 1 0        55 46 46 0 
+--------------------
+turns: 52    it's Blue's turn
+You threw a 5
+0 0 0 0        * 0 0 0 
+0 4 1 1        * 23 20 20 
+12 1 0 0        44 33 0 0 
+10 1 1 0        55 46 46 0 
+--------------------
+turns: 53    it's Green's turn
+You threw a 5
+Plane Green 2 moved.
+0 0 0 0        * 0 0 0 
+0 9 1 1        * 28 20 20 
+12 1 0 0        44 33 0 0 
+10 1 1 0        55 46 46 0 
+--------------------
+turns: 54    it's Red's turn
+You threw a 4
+Plane Red 1 moved.
+0 0 0 0        * 0 0 0 
+0 9 1 1        * 28 20 20 
+16 1 0 0        48 33 0 0 
+10 1 1 0        55 46 46 0 
+--------------------
+turns: 55    it's Yellow's turn
+You threw a 6
+Plane Yellow 4 has taken off.
+You threw a 4
+Plane Yellow 2 moved.
+0 0 0 0        * 0 0 0 
+0 9 1 1        * 28 20 20 
+16 1 0 0        48 33 0 0 
+10 5 1 1        55 50 46 46 
+--------------------
+turns: 56    it's Blue's turn
+You threw a 2
+0 0 0 0        * 0 0 0 
+0 9 1 1        * 28 20 20 
+16 1 0 0        48 33 0 0 
+10 5 1 1        55 50 46 46 
+--------------------
+turns: 57    it's Green's turn
+You threw a 5
+Plane Green 2 moved.
+0 0 0 0        * 0 0 0 
+0 18 1 1        * 37 20 20 
+16 1 0 0        48 33 0 0 
+10 5 1 1        55 50 46 46 
+--------------------
+turns: 58    it's Red's turn
+You threw a 2
+Plane Red 1 moved.
+0 0 0 0        * 0 0 0 
+0 18 1 1        * 37 20 20 
+22 1 0 0        54 33 0 0 
+10 5 1 1        55 50 46 46 
+--------------------
+turns: 59    it's Yellow's turn
+You threw a 5
+Plane Yellow 1 moved.
+0 0 0 0        * 0 0 0 
+0 18 1 1        * 37 20 20 
+22 1 0 0        54 33 0 0 
+15 5 1 1        60 50 46 46 
+--------------------
+turns: 60    it's Blue's turn
+You threw a 3
+0 0 0 0        * 0 0 0 
+0 18 1 1        * 37 20 20 
+22 1 0 0        54 33 0 0 
+15 5 1 1        60 50 46 46 
+--------------------
+turns: 61    it's Green's turn
+You threw a 3
+Plane Green 2 moved.
+0 0 0 0        * 0 0 0 
+0 21 1 1        * 40 20 20 
+22 1 0 0        54 33 0 0 
+15 5 1 1        60 50 46 46 
+--------------------
+turns: 62    it's Red's turn
+You threw a 1
+Plane Red 1 moved.
+0 0 0 0        * 0 0 0 
+0 21 1 1        * 40 20 20 
+23 1 0 0        55 33 0 0 
+15 5 1 1        60 50 46 46 
+--------------------
+turns: 63    it's Yellow's turn
+You threw a 2
+Plane Yellow 1 moved.
+0 0 0 0        * 0 0 0 
+0 21 1 1        * 40 20 20 
+23 1 0 0        55 33 0 0 
+17 5 1 1        62 50 46 46 
+--------------------
+turns: 64    it's Blue's turn
+You threw a 2
+0 0 0 0        * 0 0 0 
+0 21 1 1        * 40 20 20 
+23 1 0 0        55 33 0 0 
+17 5 1 1        62 50 46 46 
+--------------------
+turns: 65    it's Green's turn
+You threw a 6
+Plane Green 2 moved.
+You threw a 2
+Plane Green 2 moved.
+Plane Yellow 2 crashed.
+0 0 0 0        * 0 0 0 
+0 29 1 1        * 48 20 20 
+23 1 0 0        55 33 0 0 
+17 0 1 1        62 0 46 46 
+--------------------
+turns: 66    it's Red's turn
+You threw a 5
+Plane Red 1 moved.
+0 0 0 0        * 0 0 0 
+0 29 1 1        * 48 20 20 
+28 1 0 0        60 33 0 0 
+17 0 1 1        62 0 46 46 
+--------------------
+turns: 67    it's Yellow's turn
+You threw a 5
+Plane Yellow 1 moved.
+0 0 0 0        * 0 0 0 
+0 29 1 1        * 48 20 20 
+28 1 0 0        60 33 0 0 
+26 0 1 1        71 0 46 46 
+--------------------
+turns: 68    it's Blue's turn
+You threw a 2
+0 0 0 0        * 0 0 0 
+0 29 1 1        * 48 20 20 
+28 1 0 0        60 33 0 0 
+26 0 1 1        71 0 46 46 
+--------------------
+turns: 69    it's Green's turn
+You threw a 4
+Plane Green 2 moved.
+0 0 0 0        * 0 0 0 
+0 33 1 1        * 52 20 20 
+28 1 0 0        60 33 0 0 
+26 0 1 1        71 0 46 46 
+--------------------
+turns: 70    it's Red's turn
+You threw a 2
+Plane Red 1 moved.
+0 0 0 0        * 0 0 0 
+0 33 1 1        * 52 20 20 
+34 1 0 0        66 33 0 0 
+26 0 1 1        71 0 46 46 
+--------------------
+turns: 71    it's Yellow's turn
+You threw a 6
+Plane Yellow 2 has taken off.
+You threw a 1
+Plane Yellow 1 moved.
+0 0 0 0        * 0 0 0 
+0 33 1 1        * 52 20 20 
+34 1 0 0        66 33 0 0 
+27 1 1 1        72 46 46 46 
+--------------------
+turns: 72    it's Blue's turn
+You threw a 3
+0 0 0 0        * 0 0 0 
+0 33 1 1        * 52 20 20 
+34 1 0 0        66 33 0 0 
+27 1 1 1        72 46 46 46 
+--------------------
+turns: 73    it's Green's turn
+You threw a 5
+Plane Green 2 moved.
+0 0 0 0        * 0 0 0 
+0 42 1 1        * 61 20 20 
+34 1 0 0        66 33 0 0 
+27 1 1 1        72 46 46 46 
+--------------------
+turns: 74    it's Red's turn
+You threw a 5
+Plane Red 1 moved.
+0 0 0 0        * 0 0 0 
+0 42 1 1        * 61 20 20 
+39 1 0 0        71 33 0 0 
+27 1 1 1        72 46 46 46 
+--------------------
+turns: 75    it's Yellow's turn
+You threw a 4
+Plane Yellow 1 moved.
+0 0 0 0        * 0 0 0 
+0 42 1 1        * 61 20 20 
+39 1 0 0        71 33 0 0 
+31 1 1 1        76 46 46 46 
+--------------------
+turns: 76    it's Blue's turn
+You threw a 1
+0 0 0 0        * 0 0 0 
+0 42 1 1        * 61 20 20 
+39 1 0 0        71 33 0 0 
+31 1 1 1        76 46 46 46 
+--------------------
+turns: 77    it's Green's turn
+You threw a 1
+Plane Green 2 moved.
+0 0 0 0        * 0 0 0 
+0 43 1 1        * 62 20 20 
+39 1 0 0        71 33 0 0 
+31 1 1 1        76 46 46 46 
+--------------------
+turns: 78    it's Red's turn
+You threw a 3
+Plane Red 1 moved.
+0 0 0 0        * 0 0 0 
+0 43 1 1        * 62 20 20 
+46 1 0 0        78 33 0 0 
+31 1 1 1        76 46 46 46 
+--------------------
+turns: 79    it's Yellow's turn
+You threw a 1
+Plane Yellow 1 moved.
+0 0 0 0        * 0 0 0 
+0 43 1 1        * 62 20 20 
+46 1 0 0        78 33 0 0 
+32 1 1 1        77 46 46 46 
+--------------------
+turns: 80    it's Blue's turn
+You threw a 1
+0 0 0 0        * 0 0 0 
+0 43 1 1        * 62 20 20 
+46 1 0 0        78 33 0 0 
+32 1 1 1        77 46 46 46 
+--------------------
+turns: 81    it's Green's turn
+You threw a 1
+Plane Green 2 moved.
+0 0 0 0        * 0 0 0 
+0 44 1 1        * 63 20 20 
+46 1 0 0        78 33 0 0 
+32 1 1 1        77 46 46 46 
+--------------------
+turns: 82    it's Red's turn
+You threw a 3
+Plane Red 1 moved.
+0 0 0 0        * 0 0 0 
+0 44 1 1        * 63 20 20 
+49 1 0 0        81 33 0 0 
+32 1 1 1        77 46 46 46 
+--------------------
+turns: 83    it's Yellow's turn
+You threw a 3
+Plane Yellow 1 moved.
+0 0 0 0        * 0 0 0 
+0 44 1 1        * 63 20 20 
+49 1 0 0        81 33 0 0 
+35 1 1 1        80 46 46 46 
+--------------------
+turns: 84    it's Blue's turn
+You threw a 6
+Plane Blue 2 has taken off.
+You threw a 6
+Plane Blue 3 has taken off.
+You threw a 6
+Plane Blue 4 has taken off.
+You threw a 3
+Plane Blue 2 moved.
+0 4 1 1        * 10 7 7 
+0 44 1 1        * 63 20 20 
+49 1 0 0        81 33 0 0 
+35 1 1 1        80 46 46 46 
+--------------------
+turns: 85    it's Green's turn
+You threw a 4
+Plane Green 2 moved.
+0 4 1 1        * 10 7 7 
+0 48 1 1        * 67 20 20 
+49 1 0 0        81 33 0 0 
+35 1 1 1        80 46 46 46 
+--------------------
+turns: 86    it's Red's turn
+You threw a 2
+Plane Red 1 moved.
+0 4 1 1        * 10 7 7 
+0 48 1 1        * 67 20 20 
+51 1 0 0        83 33 0 0 
+35 1 1 1        80 46 46 46 
+--------------------
+turns: 87    it's Yellow's turn
+You threw a 4
+Plane Yellow 1 moved.
+0 4 1 1        * 10 7 7 
+0 48 1 1        * 67 20 20 
+51 1 0 0        83 33 0 0 
+39 1 1 1        84 46 46 46 
+--------------------
+turns: 88    it's Blue's turn
+You threw a 4
+Plane Blue 2 moved.
+0 8 1 1        * 14 7 7 
+0 48 1 1        * 67 20 20 
+51 1 0 0        83 33 0 0 
+39 1 1 1        84 46 46 46 
+--------------------
+turns: 89    it's Green's turn
+You threw a 1
+Plane Green 2 moved.
+0 8 1 1        * 14 7 7 
+0 49 1 1        * 68 20 20 
+51 1 0 0        83 33 0 0 
+39 1 1 1        84 46 46 46 
+--------------------
+turns: 90    it's Red's turn
+You threw a 3
+Plane Red 1 moved.
+0 8 1 1        * 14 7 7 
+0 49 1 1        * 68 20 20 
+54 1 0 0        86 33 0 0 
+39 1 1 1        84 46 46 46 
+--------------------
+turns: 91    it's Yellow's turn
+You threw a 2
+Plane Yellow 1 moved.
+0 8 1 1        * 14 7 7 
+0 49 1 1        * 68 20 20 
+54 1 0 0        86 33 0 0 
+41 1 1 1        86 46 46 46 
+--------------------
+turns: 92    it's Blue's turn
+You threw a 2
+Plane Blue 2 moved.
+0 14 1 1        * 20 7 7 
+0 49 1 1        * 68 20 20 
+54 1 0 0        86 33 0 0 
+41 1 1 1        86 46 46 46 
+--------------------
+turns: 93    it's Green's turn
+You threw a 2
+Plane Green 3 moved.
+Plane Blue 2 crashed.
+0 0 1 1        * 0 7 7 
+0 49 3 1        * 68 22 20 
+54 1 0 0        86 33 0 0 
+41 1 1 1        86 46 46 46 
+--------------------
+turns: 94    it's Red's turn
+You threw a 5
+Plane Red 1 reached the destination.
+0 0 1 1        * 0 7 7 
+0 49 3 1        * 68 22 20 
+0 1 0 0        * 33 0 0 
+41 1 1 1        86 46 46 46 
+--------------------
+turns: 95    it's Yellow's turn
+You threw a 6
+Plane Yellow 1 moved.
+You threw a 2
+Plane Yellow 1 moved.
+0 0 1 1        * 0 7 7 
+0 49 3 1        * 68 22 20 
+0 1 0 0        * 33 0 0 
+49 1 1 1        94 46 46 46 
+--------------------
+turns: 96    it's Blue's turn
+You threw a 6
+Plane Blue 2 has taken off.
+You threw a 3
+Plane Blue 2 moved.
+0 4 1 1        * 10 7 7 
+0 49 3 1        * 68 22 20 
+0 1 0 0        * 33 0 0 
+49 1 1 1        94 46 46 46 
+--------------------
+turns: 97    it's Green's turn
+You threw a 1
+Plane Green 2 moved.
+0 4 1 1        * 10 7 7 
+0 50 3 1        * 69 22 20 
+0 1 0 0        * 33 0 0 
+49 1 1 1        94 46 46 46 
+--------------------
+turns: 98    it's Red's turn
+You threw a 2
+Plane Red 2 moved.
+0 4 1 1        * 10 7 7 
+0 50 3 1        * 69 22 20 
+0 3 0 0        * 35 0 0 
+49 1 1 1        94 46 46 46 
+--------------------
+turns: 99    it's Yellow's turn
+You threw a 3
+Plane Yellow 1 moved.
+0 4 1 1        * 10 7 7 
+0 50 3 1        * 69 22 20 
+0 3 0 0        * 35 0 0 
+52 1 1 1        97 46 46 46 
+--------------------
+turns: 100    it's Blue's turn
+You threw a 2
+Plane Blue 2 moved.
+0 10 1 1        * 16 7 7 
+0 50 3 1        * 69 22 20 
+0 3 0 0        * 35 0 0 
+52 1 1 1        97 46 46 46 
+--------------------
+turns: 101    it's Green's turn
+You threw a 2
+Plane Green 2 moved.
+0 10 1 1        * 16 7 7 
+0 52 3 1        * 71 22 20 
+0 3 0 0        * 35 0 0 
+52 1 1 1        97 46 46 46 
+--------------------
+turns: 102    it's Red's turn
+You threw a 3
+Plane Red 2 moved.
+0 10 1 1        * 16 7 7 
+0 52 3 1        * 71 22 20 
+0 10 0 0        * 42 0 0 
+52 1 1 1        97 46 46 46 
+--------------------
+turns: 103    it's Yellow's turn
+You threw a 4
+Plane Yellow 1 reached the destination.
+0 10 1 1        * 16 7 7 
+0 52 3 1        * 71 22 20 
+0 10 0 0        * 42 0 0 
+0 1 1 1        * 46 46 46 
+--------------------
+turns: 104    it's Blue's turn
+You threw a 3
+Plane Blue 2 moved.
+0 13 1 1        * 19 7 7 
+0 52 3 1        * 71 22 20 
+0 10 0 0        * 42 0 0 
+0 1 1 1        * 46 46 46 
+--------------------
+turns: 105    it's Green's turn
+You threw a 6
+Plane Green 2 reached the destination.
+You threw a 6
+Plane Green 3 moved.
+You threw a 2
+Plane Green 3 moved.
+0 13 1 1        * 19 7 7 
+0 0 11 1        * * 30 20 
+0 10 0 0        * 42 0 0 
+0 1 1 1        * 46 46 46 
+--------------------
+turns: 106    it's Red's turn
+You threw a 2
+Plane Red 2 moved.
+Plane Yellow 2 crashed.
+0 13 1 1        * 19 7 7 
+0 0 11 1        * * 30 20 
+0 12 0 0        * 44 0 0 
+0 0 1 1        * 0 46 46 
+--------------------
+turns: 107    it's Yellow's turn
+You threw a 3
+Plane Yellow 3 moved.
+0 13 1 1        * 19 7 7 
+0 0 11 1        * * 30 20 
+0 12 0 0        * 44 0 0 
+0 0 4 1        * 0 49 46 
+--------------------
+turns: 108    it's Blue's turn
+You threw a 4
+Plane Blue 2 moved.
+Plane Green 1 crashed.
+0 17 1 1        * 23 7 7 
+0 0 11 1        * * 30 20 
+0 12 0 0        * 44 0 0 
+0 0 4 1        * 0 49 46 
+--------------------
+turns: 109    it's Green's turn
+You threw a 4
+Plane Green 3 moved.
+0 17 1 1        * 23 7 7 
+0 0 15 1        * * 34 20 
+0 12 0 0        * 44 0 0 
+0 0 4 1        * 0 49 46 
+--------------------
+turns: 110    it's Red's turn
+You threw a 3
+Plane Red 2 moved.
+0 17 1 1        * 23 7 7 
+0 0 15 1        * * 34 20 
+0 15 0 0        * 47 0 0 
+0 0 4 1        * 0 49 46 
+--------------------
+turns: 111    it's Yellow's turn
+You threw a 5
+Plane Yellow 3 moved.
+0 17 1 1        * 23 7 7 
+0 0 15 1        * * 34 20 
+0 15 0 0        * 47 0 0 
+0 0 9 1        * 0 54 46 
+--------------------
+turns: 112    it's Blue's turn
+You threw a 5
+Plane Blue 2 moved.
+0 26 1 1        * 32 7 7 
+0 0 15 1        * * 34 20 
+0 15 0 0        * 47 0 0 
+0 0 9 1        * 0 54 46 
+--------------------
+turns: 113    it's Green's turn
+You threw a 5
+Plane Green 3 moved.
+0 26 1 1        * 32 7 7 
+0 0 20 1        * * 39 20 
+0 15 0 0        * 47 0 0 
+0 0 9 1        * 0 54 46 
+--------------------
+turns: 114    it's Red's turn
+You threw a 3
+Plane Red 2 moved.
+0 26 1 1        * 32 7 7 
+0 0 20 1        * * 39 20 
+0 22 0 0        * 54 0 0 
+0 0 9 1        * 0 54 46 
+--------------------
+turns: 115    it's Yellow's turn
+You threw a 2
+Plane Yellow 3 moved.
+Plane Red 2 crashed.
+0 26 1 1        * 32 7 7 
+0 0 20 1        * * 39 20 
+0 0 0 0        * 0 0 0 
+0 0 11 1        * 0 56 46 
+--------------------
+turns: 116    it's Blue's turn
+You threw a 5
+Plane Blue 2 moved.
+Plane Red 1 crashed.
+0 31 1 1        * 37 7 7 
+0 0 20 1        * * 39 20 
+0 0 0 0        * 0 0 0 
+0 0 11 1        * 0 56 46 
+--------------------
+turns: 117    it's Green's turn
+You threw a 3
+Plane Green 3 moved.
+0 31 1 1        * 37 7 7 
+0 0 23 1        * * 42 20 
+0 0 0 0        * 0 0 0 
+0 0 11 1        * 0 56 46 
+--------------------
+turns: 118    it's Red's turn
+You threw a 3
+0 31 1 1        * 37 7 7 
+0 0 23 1        * * 42 20 
+0 0 0 0        * 0 0 0 
+0 0 11 1        * 0 56 46 
+--------------------
+turns: 119    it's Yellow's turn
+You threw a 5
+Plane Yellow 3 moved.
+0 31 1 1        * 37 7 7 
+0 0 23 1        * * 42 20 
+0 0 0 0        * 0 0 0 
+0 0 16 1        * 0 61 46 
+--------------------
+turns: 120    it's Blue's turn
+You threw a 2
+Plane Blue 2 moved.
+0 33 1 1        * 39 7 7 
+0 0 23 1        * * 42 20 
+0 0 0 0        * 0 0 0 
+0 0 16 1        * 0 61 46 
+--------------------
+turns: 121    it's Green's turn
+You threw a 6
+Plane Green 3 moved.
+Plane Yellow 4 crashed.
+You threw a 1
+Plane Green 3 moved.
+0 33 1 1        * 39 7 7 
+0 0 34 1        * * 53 20 
+0 0 0 0        * 0 0 0 
+0 0 16 0        * 0 61 0 
+--------------------
+turns: 122    it's Red's turn
+You threw a 5
+0 33 1 1        * 39 7 7 
+0 0 34 1        * * 53 20 
+0 0 0 0        * 0 0 0 
+0 0 16 0        * 0 61 0 
+--------------------
+turns: 123    it's Yellow's turn
+You threw a 1
+Plane Yellow 3 moved.
+0 33 1 1        * 39 7 7 
+0 0 34 1        * * 53 20 
+0 0 0 0        * 0 0 0 
+0 0 17 0        * 0 62 0 
+--------------------
+turns: 124    it's Blue's turn
+You threw a 6
+Plane Blue 2 moved.
+You threw a 1
+Plane Blue 2 moved.
+Plane Yellow 1 crashed.
+0 40 1 1        * 46 7 7 
+0 0 34 1        * * 53 20 
+0 0 0 0        * 0 0 0 
+0 0 17 0        * 0 62 0 
+--------------------
+turns: 125    it's Green's turn
+You threw a 5
+Plane Green 3 moved.
+0 40 1 1        * 46 7 7 
+0 0 39 1        * * 58 20 
+0 0 0 0        * 0 0 0 
+0 0 17 0        * 0 62 0 
+--------------------
+turns: 126    it's Red's turn
+You threw a 4
+0 40 1 1        * 46 7 7 
+0 0 39 1        * * 58 20 
+0 0 0 0        * 0 0 0 
+0 0 17 0        * 0 62 0 
+--------------------
+turns: 127    it's Yellow's turn
+You threw a 4
+Plane Yellow 3 moved.
+0 40 1 1        * 46 7 7 
+0 0 39 1        * * 58 20 
+0 0 0 0        * 0 0 0 
+0 0 21 0        * 0 66 0 
+--------------------
+turns: 128    it's Blue's turn
+You threw a 4
+Plane Blue 2 moved.
+0 44 1 1        * 50 7 7 
+0 0 39 1        * * 58 20 
+0 0 0 0        * 0 0 0 
+0 0 21 0        * 0 66 0 
+--------------------
+turns: 129    it's Green's turn
+You threw a 5
+Plane Green 3 moved.
+0 44 1 1        * 50 7 7 
+0 0 44 1        * * 63 20 
+0 0 0 0        * 0 0 0 
+0 0 21 0        * 0 66 0 
+--------------------
+turns: 130    it's Red's turn
+You threw a 2
+0 44 1 1        * 50 7 7 
+0 0 44 1        * * 63 20 
+0 0 0 0        * 0 0 0 
+0 0 21 0        * 0 66 0 
+--------------------
+turns: 131    it's Yellow's turn
+You threw a 3
+Plane Yellow 3 moved.
+0 44 1 1        * 50 7 7 
+0 0 44 1        * * 63 20 
+0 0 0 0        * 0 0 0 
+0 0 24 0        * 0 69 0 
+--------------------
+turns: 132    it's Blue's turn
+You threw a 6
+Plane Blue 2 moved.
+You threw a 6
+Plane Blue 2 reached the destination.
+You threw a 1
+Plane Blue 3 moved.
+0 0 6 1        * * 12 7 
+0 0 44 1        * * 63 20 
+0 0 0 0        * 0 0 0 
+0 0 24 0        * 0 69 0 
+--------------------
+turns: 133    it's Green's turn
+You threw a 5
+Plane Green 3 moved.
+0 0 6 1        * * 12 7 
+0 0 49 1        * * 68 20 
+0 0 0 0        * 0 0 0 
+0 0 24 0        * 0 69 0 
+--------------------
+turns: 134    it's Red's turn
+You threw a 4
+0 0 6 1        * * 12 7 
+0 0 49 1        * * 68 20 
+0 0 0 0        * 0 0 0 
+0 0 24 0        * 0 69 0 
+--------------------
+turns: 135    it's Yellow's turn
+You threw a 5
+Plane Yellow 3 moved.
+0 0 6 1        * * 12 7 
+0 0 49 1        * * 68 20 
+0 0 0 0        * 0 0 0 
+0 0 29 0        * 0 74 0 
+--------------------
+turns: 136    it's Blue's turn
+You threw a 3
+Plane Blue 3 moved.
+0 0 9 1        * * 15 7 
+0 0 49 1        * * 68 20 
+0 0 0 0        * 0 0 0 
+0 0 29 0        * 0 74 0 
+--------------------
+turns: 137    it's Green's turn
+You threw a 6
+Plane Green 3 moved.
+You threw a 4
+Plane Green 3 reached the destination.
+0 0 9 1        * * 15 7 
+0 0 0 1        * * * 20 
+0 0 0 0        * 0 0 0 
+0 0 29 0        * 0 74 0 
+--------------------
+turns: 138    it's Red's turn
+You threw a 1
+0 0 9 1        * * 15 7 
+0 0 0 1        * * * 20 
+0 0 0 0        * 0 0 0 
+0 0 29 0        * 0 74 0 
+--------------------
+turns: 139    it's Yellow's turn
+You threw a 3
+Plane Yellow 3 moved.
+0 0 9 1        * * 15 7 
+0 0 0 1        * * * 20 
+0 0 0 0        * 0 0 0 
+0 0 32 0        * 0 77 0 
+--------------------
+turns: 140    it's Blue's turn
+You threw a 4
+Plane Blue 3 moved.
+0 0 13 1        * * 19 7 
+0 0 0 1        * * * 20 
+0 0 0 0        * 0 0 0 
+0 0 32 0        * 0 77 0 
+--------------------
+turns: 141    it's Green's turn
+You threw a 2
+Plane Green 4 moved.
+0 0 13 1        * * 19 7 
+0 0 0 3        * * * 22 
+0 0 0 0        * 0 0 0 
+0 0 32 0        * 0 77 0 
+--------------------
+turns: 142    it's Red's turn
+You threw a 5
+0 0 13 1        * * 19 7 
+0 0 0 3        * * * 22 
+0 0 0 0        * 0 0 0 
+0 0 32 0        * 0 77 0 
+--------------------
+turns: 143    it's Yellow's turn
+You threw a 6
+Plane Yellow 2 has taken off.
+You threw a 5
+Plane Yellow 2 moved.
+0 0 13 1        * * 19 7 
+0 0 0 3        * * * 22 
+0 0 0 0        * 0 0 0 
+0 10 32 0        * 55 77 0 
+--------------------
+turns: 144    it's Blue's turn
+You threw a 2
+Plane Blue 3 moved.
+Plane Green 1 crashed.
+0 0 15 1        * * 21 7 
+0 0 0 3        * * * 22 
+0 0 0 0        * 0 0 0 
+0 10 32 0        * 55 77 0 
+--------------------
+turns: 145    it's Green's turn
+You threw a 4
+Plane Green 4 moved.
+0 0 15 1        * * 21 7 
+0 0 0 7        * * * 26 
+0 0 0 0        * 0 0 0 
+0 10 32 0        * 55 77 0 
+--------------------
+turns: 146    it's Red's turn
+You threw a 4
+0 0 15 1        * * 21 7 
+0 0 0 7        * * * 26 
+0 0 0 0        * 0 0 0 
+0 10 32 0        * 55 77 0 
+--------------------
+turns: 147    it's Yellow's turn
+You threw a 2
+Plane Yellow 2 moved.
+0 0 15 1        * * 21 7 
+0 0 0 7        * * * 26 
+0 0 0 0        * 0 0 0 
+0 12 32 0        * 57 77 0 
+--------------------
+turns: 148    it's Blue's turn
+You threw a 1
+Plane Blue 3 moved.
+0 0 16 1        * * 22 7 
+0 0 0 7        * * * 26 
+0 0 0 0        * 0 0 0 
+0 12 32 0        * 57 77 0 
+--------------------
+turns: 149    it's Green's turn
+You threw a 4
+Plane Green 4 moved.
+0 0 16 1        * * 22 7 
+0 0 0 11        * * * 30 
+0 0 0 0        * 0 0 0 
+0 12 32 0        * 57 77 0 
+--------------------
+turns: 150    it's Red's turn
+You threw a 5
+0 0 16 1        * * 22 7 
+0 0 0 11        * * * 30 
+0 0 0 0        * 0 0 0 
+0 12 32 0        * 57 77 0 
+--------------------
+turns: 151    it's Yellow's turn
+You threw a 6
+Plane Yellow 4 has taken off.
+You threw a 2
+Plane Yellow 2 moved.
+0 0 16 1        * * 22 7 
+0 0 0 11        * * * 30 
+0 0 0 0        * 0 0 0 
+0 18 32 1        * 63 77 46 
+--------------------
+turns: 152    it's Blue's turn
+You threw a 4
+Plane Blue 3 moved.
+0 0 20 1        * * 26 7 
+0 0 0 11        * * * 30 
+0 0 0 0        * 0 0 0 
+0 18 32 1        * 63 77 46 
+--------------------
+turns: 153    it's Green's turn
+You threw a 2
+Plane Green 4 moved.
+0 0 20 1        * * 26 7 
+0 0 0 13        * * * 32 
+0 0 0 0        * 0 0 0 
+0 18 32 1        * 63 77 46 
+--------------------
+turns: 154    it's Red's turn
+You threw a 3
+0 0 20 1        * * 26 7 
+0 0 0 13        * * * 32 
+0 0 0 0        * 0 0 0 
+0 18 32 1        * 63 77 46 
+--------------------
+turns: 155    it's Yellow's turn
+You threw a 4
+Plane Yellow 3 moved.
+0 0 20 1        * * 26 7 
+0 0 0 13        * * * 32 
+0 0 0 0        * 0 0 0 
+0 18 36 1        * 63 81 46 
+--------------------
+turns: 156    it's Blue's turn
+You threw a 4
+Plane Blue 3 moved.
+0 0 24 1        * * 30 7 
+0 0 0 13        * * * 32 
+0 0 0 0        * 0 0 0 
+0 18 36 1        * 63 81 46 
+--------------------
+turns: 157    it's Green's turn
+You threw a 5
+Plane Green 4 moved.
+Plane Red 1 crashed.
+0 0 24 1        * * 30 7 
+0 0 0 22        * * * 41 
+0 0 0 0        * 0 0 0 
+0 18 36 1        * 63 81 46 
+--------------------
+turns: 158    it's Red's turn
+You threw a 2
+0 0 24 1        * * 30 7 
+0 0 0 22        * * * 41 
+0 0 0 0        * 0 0 0 
+0 18 36 1        * 63 81 46 
+--------------------
+turns: 159    it's Yellow's turn
+You threw a 4
+Plane Yellow 3 moved.
+0 0 24 1        * * 30 7 
+0 0 0 22        * * * 41 
+0 0 0 0        * 0 0 0 
+0 18 40 1        * 63 85 46 
+--------------------
+turns: 160    it's Blue's turn
+You threw a 2
+Plane Blue 3 moved.
+0 0 30 1        * * 36 7 
+0 0 0 22        * * * 41 
+0 0 0 0        * 0 0 0 
+0 18 40 1        * 63 85 46 
+--------------------
+turns: 161    it's Green's turn
+You threw a 1
+Plane Green 4 moved.
+0 0 30 1        * * 36 7 
+0 0 0 23        * * * 42 
+0 0 0 0        * 0 0 0 
+0 18 40 1        * 63 85 46 
+--------------------
+turns: 162    it's Red's turn
+You threw a 6
+Plane Red 2 has taken off.
+You threw a 5
+Plane Red 2 moved.
+0 0 30 1        * * 36 7 
+0 0 0 23        * * * 42 
+0 10 0 0        * 42 0 0 
+0 18 40 1        * 63 85 46 
+--------------------
+turns: 163    it's Yellow's turn
+You threw a 5
+Plane Yellow 2 moved.
+0 0 30 1        * * 36 7 
+0 0 0 23        * * * 42 
+0 10 0 0        * 42 0 0 
+0 23 40 1        * 68 85 46 
+--------------------
+turns: 164    it's Blue's turn
+You threw a 3
+Plane Blue 3 moved.
+0 0 33 1        * * 39 7 
+0 0 0 23        * * * 42 
+0 10 0 0        * 42 0 0 
+0 23 40 1        * 68 85 46 
+--------------------
+turns: 165    it's Green's turn
+You threw a 1
+Plane Green 4 moved.
+Plane Yellow 4 crashed.
+0 0 33 1        * * 39 7 
+0 0 0 24        * * * 43 
+0 10 0 0        * 42 0 0 
+0 23 40 0        * 68 85 0 
+--------------------
+turns: 166    it's Red's turn
+You threw a 5
+Plane Red 2 moved.
+0 0 33 1        * * 39 7 
+0 0 0 24        * * * 43 
+0 15 0 0        * 47 0 0 
+0 23 40 0        * 68 85 0 
+--------------------
+turns: 167    it's Yellow's turn
+You threw a 5
+Plane Yellow 2 moved.
+0 0 33 1        * * 39 7 
+0 0 0 24        * * * 43 
+0 15 0 0        * 47 0 0 
+0 28 40 0        * 73 85 0 
+--------------------
+turns: 168    it's Blue's turn
+You threw a 1
+Plane Blue 3 moved.
+0 0 38 1        * * 44 7 
+0 0 0 24        * * * 43 
+0 15 0 0        * 47 0 0 
+0 28 40 0        * 73 85 0 
+--------------------
+turns: 169    it's Green's turn
+You threw a 1
+Plane Green 4 moved.
+0 0 38 1        * * 44 7 
+0 0 0 25        * * * 44 
+0 15 0 0        * 47 0 0 
+0 28 40 0        * 73 85 0 
+--------------------
+turns: 170    it's Red's turn
+You threw a 1
+Plane Red 2 moved.
+0 0 38 1        * * 44 7 
+0 0 0 25        * * * 44 
+0 16 0 0        * 48 0 0 
+0 28 40 0        * 73 85 0 
+--------------------
+turns: 171    it's Yellow's turn
+You threw a 6
+Plane Yellow 4 has taken off.
+You threw a 3
+Plane Yellow 2 moved.
+0 0 38 1        * * 44 7 
+0 0 0 25        * * * 44 
+0 16 0 0        * 48 0 0 
+0 31 40 1        * 76 85 46 
+--------------------
+turns: 172    it's Blue's turn
+You threw a 1
+Plane Blue 3 moved.
+Plane Green 4 crashed.
+0 0 39 1        * * 45 7 
+0 0 0 0        * * * 0 
+0 16 0 0        * 48 0 0 
+0 31 40 1        * 76 85 46 
+--------------------
+turns: 173    it's Green's turn
+You threw a 3
+0 0 39 1        * * 45 7 
+0 0 0 0        * * * 0 
+0 16 0 0        * 48 0 0 
+0 31 40 1        * 76 85 46 
+--------------------
+turns: 174    it's Red's turn
+You threw a 1
+Plane Red 2 moved.
+0 0 39 1        * * 45 7 
+0 0 0 0        * * * 0 
+0 17 0 0        * 49 0 0 
+0 31 40 1        * 76 85 46 
+--------------------
+turns: 175    it's Yellow's turn
+You threw a 3
+Plane Yellow 2 moved.
+0 0 39 1        * * 45 7 
+0 0 0 0        * * * 0 
+0 17 0 0        * 49 0 0 
+0 38 40 1        * 83 85 46 
+--------------------
+turns: 176    it's Blue's turn
+You threw a 5
+Plane Blue 3 moved.
+Plane Yellow 1 crashed.
+0 0 44 1        * * 50 7 
+0 0 0 0        * * * 0 
+0 17 0 0        * 49 0 0 
+0 38 40 1        * 83 85 46 
+--------------------
+turns: 177    it's Green's turn
+You threw a 2
+0 0 44 1        * * 50 7 
+0 0 0 0        * * * 0 
+0 17 0 0        * 49 0 0 
+0 38 40 1        * 83 85 46 
+--------------------
+turns: 178    it's Red's turn
+You threw a 1
+Plane Red 2 moved.
+0 0 44 1        * * 50 7 
+0 0 0 0        * * * 0 
+0 22 0 0        * 54 0 0 
+0 38 40 1        * 83 85 46 
+--------------------
+turns: 179    it's Yellow's turn
+You threw a 4
+Plane Yellow 4 moved.
+Plane Blue 3 crashed.
+0 0 0 1        * * 0 7 
+0 0 0 0        * * * 0 
+0 22 0 0        * 54 0 0 
+0 38 40 5        * 83 85 50 
+--------------------
+turns: 180    it's Blue's turn
+You threw a 6
+Plane Blue 3 has taken off.
+You threw a 2
+Plane Blue 3 moved.
+0 0 3 1        * * 9 7 
+0 0 0 0        * * * 0 
+0 22 0 0        * 54 0 0 
+0 38 40 5        * 83 85 50 
+--------------------
+turns: 181    it's Green's turn
+You threw a 3
+0 0 3 1        * * 9 7 
+0 0 0 0        * * * 0 
+0 22 0 0        * 54 0 0 
+0 38 40 5        * 83 85 50 
+--------------------
+turns: 182    it's Red's turn
+You threw a 4
+Plane Red 2 moved.
+0 0 3 1        * * 9 7 
+0 0 0 0        * * * 0 
+0 30 0 0        * 62 0 0 
+0 38 40 5        * 83 85 50 
+--------------------
+turns: 183    it's Yellow's turn
+You threw a 5
+Plane Yellow 2 moved.
+0 0 3 1        * * 9 7 
+0 0 0 0        * * * 0 
+0 30 0 0        * 62 0 0 
+0 43 40 5        * 88 85 50 
+--------------------
+turns: 184    it's Blue's turn
+You threw a 2
+Plane Blue 3 moved.
+0 0 5 1        * * 11 7 
+0 0 0 0        * * * 0 
+0 30 0 0        * 62 0 0 
+0 43 40 5        * 88 85 50 
+--------------------
+turns: 185    it's Green's turn
+You threw a 5
+0 0 5 1        * * 11 7 
+0 0 0 0        * * * 0 
+0 30 0 0        * 62 0 0 
+0 43 40 5        * 88 85 50 
+--------------------
+turns: 186    it's Red's turn
+You threw a 2
+Plane Red 2 moved.
+0 0 5 1        * * 11 7 
+0 0 0 0        * * * 0 
+0 32 0 0        * 64 0 0 
+0 43 40 5        * 88 85 50 
+--------------------
+turns: 187    it's Yellow's turn
+You threw a 2
+Plane Yellow 2 moved.
+0 0 5 1        * * 11 7 
+0 0 0 0        * * * 0 
+0 32 0 0        * 64 0 0 
+0 45 40 5        * 90 85 50 
+--------------------
+turns: 188    it's Blue's turn
+You threw a 6
+Plane Blue 3 moved.
+You threw a 4
+Plane Blue 3 moved.
+0 0 15 1        * * 21 7 
+0 0 0 0        * * * 0 
+0 32 0 0        * 64 0 0 
+0 45 40 5        * 90 85 50 
+--------------------
+turns: 189    it's Green's turn
+You threw a 4
+0 0 15 1        * * 21 7 
+0 0 0 0        * * * 0 
+0 32 0 0        * 64 0 0 
+0 45 40 5        * 90 85 50 
+--------------------
+turns: 190    it's Red's turn
+You threw a 1
+Plane Red 2 moved.
+0 0 15 1        * * 21 7 
+0 0 0 0        * * * 0 
+0 33 0 0        * 65 0 0 
+0 45 40 5        * 90 85 50 
+--------------------
+turns: 191    it's Yellow's turn
+You threw a 6
+Plane Yellow 2 moved.
+You threw a 3
+Plane Yellow 2 moved.
+0 0 15 1        * * 21 7 
+0 0 0 0        * * * 0 
+0 33 0 0        * 65 0 0 
+0 54 40 5        * 99 85 50 
+--------------------
+turns: 192    it's Blue's turn
+You threw a 6
+Plane Blue 3 moved.
+You threw a 1
+Plane Blue 3 moved.
+0 0 26 1        * * 32 7 
+0 0 0 0        * * * 0 
+0 33 0 0        * 65 0 0 
+0 54 40 5        * 99 85 50 
+--------------------
+turns: 193    it's Green's turn
+You threw a 2
+0 0 26 1        * * 32 7 
+0 0 0 0        * * * 0 
+0 33 0 0        * 65 0 0 
+0 54 40 5        * 99 85 50 
+--------------------
+turns: 194    it's Red's turn
+You threw a 3
+Plane Red 2 moved.
+0 0 26 1        * * 32 7 
+0 0 0 0        * * * 0 
+0 36 0 0        * 68 0 0 
+0 54 40 5        * 99 85 50 
+--------------------
+turns: 195    it's Yellow's turn
+You threw a 3
+Plane Yellow 2 reached the destination.
+0 0 26 1        * * 32 7 
+0 0 0 0        * * * 0 
+0 36 0 0        * 68 0 0 
+0 0 40 5        * * 85 50 
+--------------------
+turns: 196    it's Blue's turn
+You threw a 5
+Plane Blue 3 moved.
+Plane Red 1 crashed.
+0 0 31 1        * * 37 7 
+0 0 0 0        * * * 0 
+0 36 0 0        * 68 0 0 
+0 0 40 5        * * 85 50 
+--------------------
+turns: 197    it's Green's turn
+You threw a 4
+0 0 31 1        * * 37 7 
+0 0 0 0        * * * 0 
+0 36 0 0        * 68 0 0 
+0 0 40 5        * * 85 50 
+--------------------
+turns: 198    it's Red's turn
+You threw a 5
+Plane Red 2 moved.
+0 0 31 1        * * 37 7 
+0 0 0 0        * * * 0 
+0 41 0 0        * 73 0 0 
+0 0 40 5        * * 85 50 
+--------------------
+turns: 199    it's Yellow's turn
+You threw a 3
+Plane Yellow 3 moved.
+0 0 31 1        * * 37 7 
+0 0 0 0        * * * 0 
+0 41 0 0        * 73 0 0 
+0 0 43 5        * * 88 50 
+--------------------
+turns: 200    it's Blue's turn
+You threw a 6
+Plane Blue 3 moved.
+You threw a 2
+Plane Blue 3 moved.
+0 0 39 1        * * 45 7 
+0 0 0 0        * * * 0 
+0 41 0 0        * 73 0 0 
+0 0 43 5        * * 88 50 
+--------------------
+turns: 201    it's Green's turn
+You threw a 3
+0 0 39 1        * * 45 7 
+0 0 0 0        * * * 0 
+0 41 0 0        * 73 0 0 
+0 0 43 5        * * 88 50 
+--------------------
+turns: 202    it's Red's turn
+You threw a 2
+Plane Red 2 moved.
+0 0 39 1        * * 45 7 
+0 0 0 0        * * * 0 
+0 43 0 0        * 75 0 0 
+0 0 43 5        * * 88 50 
+--------------------
+turns: 203    it's Yellow's turn
+You threw a 4
+Plane Yellow 3 moved.
+0 0 39 1        * * 45 7 
+0 0 0 0        * * * 0 
+0 43 0 0        * 75 0 0 
+0 0 47 5        * * 92 50 
+--------------------
+turns: 204    it's Blue's turn
+You threw a 3
+Plane Blue 3 moved.
+Plane Yellow 1 crashed.
+0 0 46 1        * * 52 7 
+0 0 0 0        * * * 0 
+0 43 0 0        * 75 0 0 
+0 0 47 5        * * 92 50 
+--------------------
+turns: 205    it's Green's turn
+You threw a 4
+0 0 46 1        * * 52 7 
+0 0 0 0        * * * 0 
+0 43 0 0        * 75 0 0 
+0 0 47 5        * * 92 50 
+--------------------
+turns: 206    it's Red's turn
+You threw a 6
+Plane Red 3 has taken off.
+You threw a 1
+Plane Red 2 moved.
+0 0 46 1        * * 52 7 
+0 0 0 0        * * * 0 
+0 44 1 0        * 76 33 0 
+0 0 47 5        * * 92 50 
+--------------------
+turns: 207    it's Yellow's turn
+You threw a 6
+Plane Yellow 3 moved.
+You threw a 2
+Plane Yellow 3 moved.
+0 0 46 1        * * 52 7 
+0 0 0 0        * * * 0 
+0 44 1 0        * 76 33 0 
+0 0 55 5        * * 100 50 
+--------------------
+turns: 208    it's Blue's turn
+You threw a 2
+Plane Blue 3 moved.
+0 0 48 1        * * 54 7 
+0 0 0 0        * * * 0 
+0 44 1 0        * 76 33 0 
+0 0 55 5        * * 100 50 
+--------------------
+turns: 209    it's Green's turn
+You threw a 5
+0 0 48 1        * * 54 7 
+0 0 0 0        * * * 0 
+0 44 1 0        * 76 33 0 
+0 0 55 5        * * 100 50 
+--------------------
+turns: 210    it's Red's turn
+You threw a 5
+Plane Red 2 moved.
+0 0 48 1        * * 54 7 
+0 0 0 0        * * * 0 
+0 49 1 0        * 81 33 0 
+0 0 55 5        * * 100 50 
+--------------------
+turns: 211    it's Yellow's turn
+You threw a 5
+Plane Yellow 3 reached the destination.
+0 0 48 1        * * 54 7 
+0 0 0 0        * * * 0 
+0 49 1 0        * 81 33 0 
+0 0 0 5        * * * 50 
+--------------------
+turns: 212    it's Blue's turn
+You threw a 4
+Plane Blue 3 moved.
+0 0 52 1        * * 58 7 
+0 0 0 0        * * * 0 
+0 49 1 0        * 81 33 0 
+0 0 0 5        * * * 50 
+--------------------
+turns: 213    it's Green's turn
+You threw a 2
+0 0 52 1        * * 58 7 
+0 0 0 0        * * * 0 
+0 49 1 0        * 81 33 0 
+0 0 0 5        * * * 50 
+--------------------
+turns: 214    it's Red's turn
+You threw a 5
+Plane Red 2 moved.
+0 0 52 1        * * 58 7 
+0 0 0 0        * * * 0 
+0 54 1 0        * 86 33 0 
+0 0 0 5        * * * 50 
+--------------------
+turns: 215    it's Yellow's turn
+You threw a 1
+Plane Yellow 4 moved.
+0 0 52 1        * * 58 7 
+0 0 0 0        * * * 0 
+0 54 1 0        * 86 33 0 
+0 0 0 10        * * * 55 
+--------------------
+turns: 216    it's Blue's turn
+You threw a 3
+Plane Blue 3 moved.
+0 0 55 1        * * 61 7 
+0 0 0 0        * * * 0 
+0 54 1 0        * 86 33 0 
+0 0 0 10        * * * 55 
+--------------------
+turns: 217    it's Green's turn
+You threw a 3
+0 0 55 1        * * 61 7 
+0 0 0 0        * * * 0 
+0 54 1 0        * 86 33 0 
+0 0 0 10        * * * 55 
+--------------------
+turns: 218    it's Red's turn
+You threw a 6
+Plane Red 4 has taken off.
+You threw a 3
+Plane Red 2 reached the destination.
+0 0 55 1        * * 61 7 
+0 0 0 0        * * * 0 
+0 0 1 1        * * 33 33 
+0 0 0 10        * * * 55 
+--------------------
+turns: 219    it's Yellow's turn
+You threw a 4
+Plane Yellow 4 moved.
+0 0 55 1        * * 61 7 
+0 0 0 0        * * * 0 
+0 0 1 1        * * 33 33 
+0 0 0 18        * * * 63 
+--------------------
+turns: 220    it's Blue's turn
+You threw a 1
+Plane Blue 3 reached the destination.
+0 0 0 1        * * * 7 
+0 0 0 0        * * * 0 
+0 0 1 1        * * 33 33 
+0 0 0 18        * * * 63 
+--------------------
+turns: 221    it's Green's turn
+You threw a 4
+0 0 0 1        * * * 7 
+0 0 0 0        * * * 0 
+0 0 1 1        * * 33 33 
+0 0 0 18        * * * 63 
+--------------------
+turns: 222    it's Red's turn
+You threw a 2
+Plane Red 3 moved.
+0 0 0 1        * * * 7 
+0 0 0 0        * * * 0 
+0 0 3 1        * * 35 33 
+0 0 0 18        * * * 63 
+--------------------
+turns: 223    it's Yellow's turn
+You threw a 5
+Plane Yellow 4 moved.
+0 0 0 1        * * * 7 
+0 0 0 0        * * * 0 
+0 0 3 1        * * 35 33 
+0 0 0 23        * * * 68 
+--------------------
+turns: 224    it's Blue's turn
+You threw a 4
+Plane Blue 4 moved.
+0 0 0 5        * * * 11 
+0 0 0 0        * * * 0 
+0 0 3 1        * * 35 33 
+0 0 0 23        * * * 68 
+--------------------
+turns: 225    it's Green's turn
+You threw a 1
+0 0 0 5        * * * 11 
+0 0 0 0        * * * 0 
+0 0 3 1        * * 35 33 
+0 0 0 23        * * * 68 
+--------------------
+turns: 226    it's Red's turn
+You threw a 3
+Plane Red 3 moved.
+0 0 0 5        * * * 11 
+0 0 0 0        * * * 0 
+0 0 10 1        * * 42 33 
+0 0 0 23        * * * 68 
+--------------------
+turns: 227    it's Yellow's turn
+You threw a 1
+Plane Yellow 4 moved.
+0 0 0 5        * * * 11 
+0 0 0 0        * * * 0 
+0 0 10 1        * * 42 33 
+0 0 0 24        * * * 69 
+--------------------
+turns: 228    it's Blue's turn
+You threw a 6
+Plane Blue 4 moved.
+You threw a 4
+Plane Blue 4 moved.
+0 0 0 15        * * * 21 
+0 0 0 0        * * * 0 
+0 0 10 1        * * 42 33 
+0 0 0 24        * * * 69 
+--------------------
+turns: 229    it's Green's turn
+You threw a 3
+0 0 0 15        * * * 21 
+0 0 0 0        * * * 0 
+0 0 10 1        * * 42 33 
+0 0 0 24        * * * 69 
+--------------------
+turns: 230    it's Red's turn
+You threw a 4
+Plane Red 4 moved.
+0 0 0 15        * * * 21 
+0 0 0 0        * * * 0 
+0 0 10 5        * * 42 37 
+0 0 0 24        * * * 69 
+--------------------
+turns: 231    it's Yellow's turn
+You threw a 2
+Plane Yellow 4 moved.
+0 0 0 15        * * * 21 
+0 0 0 0        * * * 0 
+0 0 10 5        * * 42 37 
+0 0 0 30        * * * 75 
+--------------------
+turns: 232    it's Blue's turn
+You threw a 6
+Plane Blue 4 moved.
+You threw a 3
+Plane Blue 4 moved.
+0 0 0 24        * * * 30 
+0 0 0 0        * * * 0 
+0 0 10 5        * * 42 37 
+0 0 0 30        * * * 75 
+--------------------
+turns: 233    it's Green's turn
+You threw a 3
+0 0 0 24        * * * 30 
+0 0 0 0        * * * 0 
+0 0 10 5        * * 42 37 
+0 0 0 30        * * * 75 
+--------------------
+turns: 234    it's Red's turn
+You threw a 2
+Plane Red 3 moved.
+0 0 0 24        * * * 30 
+0 0 0 0        * * * 0 
+0 0 12 5        * * 44 37 
+0 0 0 30        * * * 75 
+--------------------
+turns: 235    it's Yellow's turn
+You threw a 6
+Plane Yellow 4 moved.
+You threw a 3
+Plane Yellow 4 moved.
+0 0 0 24        * * * 30 
+0 0 0 0        * * * 0 
+0 0 12 5        * * 44 37 
+0 0 0 39        * * * 84 
+--------------------
+turns: 236    it's Blue's turn
+You threw a 5
+Plane Blue 4 moved.
+0 0 0 29        * * * 35 
+0 0 0 0        * * * 0 
+0 0 12 5        * * 44 37 
+0 0 0 39        * * * 84 
+--------------------
+turns: 237    it's Green's turn
+You threw a 4
+0 0 0 29        * * * 35 
+0 0 0 0        * * * 0 
+0 0 12 5        * * 44 37 
+0 0 0 39        * * * 84 
+--------------------
+turns: 238    it's Red's turn
+You threw a 1
+Plane Red 3 moved.
+0 0 0 29        * * * 35 
+0 0 0 0        * * * 0 
+0 0 13 5        * * 45 37 
+0 0 0 39        * * * 84 
+--------------------
+turns: 239    it's Yellow's turn
+You threw a 6
+Plane Yellow 4 moved.
+You threw a 2
+Plane Yellow 4 moved.
+0 0 0 29        * * * 35 
+0 0 0 0        * * * 0 
+0 0 13 5        * * 45 37 
+0 0 0 47        * * * 92 
+--------------------
+turns: 240    it's Blue's turn
+You threw a 2
+Plane Blue 4 moved.
+0 0 0 31        * * * 37 
+0 0 0 0        * * * 0 
+0 0 13 5        * * 45 37 
+0 0 0 47        * * * 92 
+--------------------
+turns: 241    it's Green's turn
+You threw a 4
+0 0 0 31        * * * 37 
+0 0 0 0        * * * 0 
+0 0 13 5        * * 45 37 
+0 0 0 47        * * * 92 
+--------------------
+turns: 242    it's Red's turn
+You threw a 5
+Plane Red 3 moved.
+Plane Yellow 1 crashed.
+0 0 0 31        * * * 37 
+0 0 0 0        * * * 0 
+0 0 22 5        * * 54 37 
+0 0 0 47        * * * 92 
+--------------------
+turns: 243    it's Yellow's turn
+You threw a 4
+Plane Yellow 4 moved.
+0 0 0 31        * * * 37 
+0 0 0 0        * * * 0 
+0 0 22 5        * * 54 37 
+0 0 0 51        * * * 96 
+--------------------
+turns: 244    it's Blue's turn
+You threw a 2
+Plane Blue 4 moved.
+Plane Red 4 crashed.
+0 0 0 33        * * * 39 
+0 0 0 0        * * * 0 
+0 0 22 0        * * 54 0 
+0 0 0 51        * * * 96 
+--------------------
+turns: 245    it's Green's turn
+You threw a 4
+0 0 0 33        * * * 39 
+0 0 0 0        * * * 0 
+0 0 22 0        * * 54 0 
+0 0 0 51        * * * 96 
+--------------------
+turns: 246    it's Red's turn
+You threw a 1
+Plane Red 3 moved.
+0 0 0 33        * * * 39 
+0 0 0 0        * * * 0 
+0 0 23 0        * * 55 0 
+0 0 0 51        * * * 96 
+--------------------
+turns: 247    it's Yellow's turn
+You threw a 4
+Plane Yellow 4 moved.
+0 0 0 33        * * * 39 
+0 0 0 0        * * * 0 
+0 0 23 0        * * 55 0 
+0 0 0 55        * * * 100 
+--------------------
+turns: 248    it's Blue's turn
+You threw a 6
+Plane Blue 4 moved.
+You threw a 2
+Plane Blue 4 moved.
+Plane Yellow 1 crashed.
+0 0 0 41        * * * 47 
+0 0 0 0        * * * 0 
+0 0 23 0        * * 55 0 
+0 0 0 55        * * * 100 
+--------------------
+turns: 249    it's Green's turn
+You threw a 6
+Plane Green 4 has taken off.
+You threw a 1
+Plane Green 4 moved.
+0 0 0 41        * * * 47 
+0 0 0 6        * * * 25 
+0 0 23 0        * * 55 0 
+0 0 0 55        * * * 100 
+--------------------
+turns: 250    it's Red's turn
+You threw a 6
+Plane Red 4 has taken off.
+You threw a 4
+Plane Red 3 moved.
+0 0 0 41        * * * 47 
+0 0 0 6        * * * 25 
+0 0 27 1        * * 59 33 
+0 0 0 55        * * * 100 
+--------------------
+turns: 251    it's Yellow's turn
+You threw a 2
+Plane Yellow 4 reached the destination.
+0 0 0 41        * * * 47 
+0 0 0 6        * * * 25 
+0 0 27 1        * * 59 33 
+0 0 0 0        * * * * 
+--------------------
