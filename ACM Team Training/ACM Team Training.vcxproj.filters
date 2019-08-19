@@ -25,6 +25,9 @@
     <Filter Include="源文件\The 2018 ACM-ICPC Asia Nanjing Regional Programming Contest">
       <UniqueIdentifier>{d4ca1c90-12ed-47b0-8ae5-bb1ddcf40b9d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\线段树">
+      <UniqueIdentifier>{9d4d3bec-7251-46aa-b62e-2434f7874991}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="【洛谷】密码.cpp">
@@ -240,11 +243,20 @@
     <ClCompile Include="洛谷选数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Ilya Long Walk.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="01string.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ilya Long Walk.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Curious Robin Hood.cpp">
+      <Filter>源文件\线段树</Filter>
+    </ClCompile>
+    <ClCompile Include="小鱼会有危险吗.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="数字反转.cpp">
+      <Filter>源文件\AC</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
