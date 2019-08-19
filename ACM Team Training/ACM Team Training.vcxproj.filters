@@ -13,117 +13,237 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\AC">
+      <UniqueIdentifier>{30e0be28-ba38-44ae-99bf-b4bcf3ef927a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\UNAC">
+      <UniqueIdentifier>{4d71c5d1-3c37-4aa5-9b3a-655f230d8b67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Insteresting AC stuff">
+      <UniqueIdentifier>{9fbf1e30-9308-48f5-9b7e-6ee915e64664}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\The 2018 ACM-ICPC Asia Nanjing Regional Programming Contest">
+      <UniqueIdentifier>{d4ca1c90-12ed-47b0-8ae5-bb1ddcf40b9d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Ugly Numbers.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="【洛谷】密码.cpp">
+      <Filter>源文件\AC</Filter>
     </ClCompile>
-    <ClCompile Include="Rails.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="烤鸡调料.cpp">
+      <Filter>源文件\UNAC</Filter>
     </ClCompile>
-    <ClCompile Include="Uva10474.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="陶陶果子2.cpp">
+      <Filter>源文件\AC</Filter>
     </ClCompile>
-    <ClCompile Include="The Block Problem.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Easy As A+B.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="开门人和关门人（WA%29.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="计数问题.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="游泳航程%28AC%29.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ISBN.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="开门人和关门人.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="排名%28STL WA%29.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Milk.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="排名.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="The Third Cup is Free .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="A Math Problem.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="POJ 3070 Fabonacci（矩阵快速幂）.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="仰视奶牛.cpp">
+      <Filter>源文件\UNAC</Filter>
     </ClCompile>
     <ClCompile Include="A Simple Math Problem%28exgcd%29.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Your Ride is here.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="青蛙见面.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="又见GCD.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="素数回文%28MLE%29.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="素数回文（无耻的打表）.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="美素数%28TLE%29.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="苹果.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\UNAC</Filter>
     </ClCompile>
     <ClCompile Include="A.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="谁没睡.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Fancy Fence .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="T-primes.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\AC</Filter>
     </ClCompile>
     <ClCompile Include="cf b.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\AC</Filter>
     </ClCompile>
-    <ClCompile Include="zhl飞行棋.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="Easy As A+B.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Fancy Fence .cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="ISBN.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Milk.cpp">
+      <Filter>源文件\AC</Filter>
     </ClCompile>
     <ClCompile Include="P1002 DFS（TLE）.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\AC</Filter>
     </ClCompile>
-    <ClCompile Include="【洛谷】密码.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="POJ 3070 Fabonacci（矩阵快速幂）.cpp">
+      <Filter>源文件\AC</Filter>
     </ClCompile>
-    <ClCompile Include="迷宫.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="Rails.cpp">
+      <Filter>源文件\AC</Filter>
     </ClCompile>
     <ClCompile Include="RopeWALKER.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\AC</Filter>
     </ClCompile>
-    <ClCompile Include="Email frome Polycarp%28WA%29.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="The Block Problem.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="The Third Cup is Free .cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Three Piles of Candies.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="T-primes.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Ugly Numbers.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Uva10474.cpp">
+      <Filter>源文件\AC</Filter>
     </ClCompile>
     <ClCompile Include="Vim.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Your Ride is here.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="zhl飞行棋.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="计数问题.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="开门人和关门人.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="迷宫.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="排名.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="苹果.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="青蛙见面.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="谁没睡.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="文件操作测试.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="游泳航程%28AC%29.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="又见GCD.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="素数回文（无耻的打表）.cpp">
+      <Filter>源文件\UNAC</Filter>
+    </ClCompile>
+    <ClCompile Include="Email frome Polycarp%28WA%29.cpp">
+      <Filter>源文件\UNAC</Filter>
+    </ClCompile>
+    <ClCompile Include="开门人和关门人（WA%29.cpp">
+      <Filter>源文件\UNAC</Filter>
+    </ClCompile>
+    <ClCompile Include="排名%28STL WA%29.cpp">
+      <Filter>源文件\UNAC</Filter>
+    </ClCompile>
+    <ClCompile Include="素数回文%28MLE%29.cpp">
+      <Filter>源文件\UNAC</Filter>
+    </ClCompile>
+    <ClCompile Include="Modular Exponentiation.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Christmas Spruce.cpp">
+      <Filter>源文件\UNAC</Filter>
+    </ClCompile>
+    <ClCompile Include="Largest Rectangle in a Histogram.cpp">
+      <Filter>源文件\Insteresting AC stuff</Filter>
+    </ClCompile>
+    <ClCompile Include="FatMouse.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="01matrix.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="源.cpp">
+    <ClCompile Include="Cow%27s Work.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU treasure.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="组合数.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="小花布.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="美国大选.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="矩形a+b.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="分数和.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Maze.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="KIll bats.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Jessica book.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="A substr.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="KMP数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分砍树.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="未知题目.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="杭州车牌.cpp">
+      <Filter>源文件\Insteresting AC stuff</Filter>
+    </ClCompile>
+    <ClCompile Include="二分POJ 2456.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="（POW精度问题）快速幂A Math Problem.cpp">
+      <Filter>源文件\Insteresting AC stuff</Filter>
+    </ClCompile>
+    <ClCompile Include="二分跳石头.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="暴力烤鸡.cpp">
+      <Filter>源文件\UNAC</Filter>
+    </ClCompile>
+    <ClCompile Include="A.Adrien and Austin .cpp">
+      <Filter>源文件\The 2018 ACM-ICPC Asia Nanjing Regional Programming Contest</Filter>
+    </ClCompile>
+    <ClCompile Include="美素数.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="素因子.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Pie（模拟）.cpp">
+      <Filter>源文件\UNAC</Filter>
+    </ClCompile>
+    <ClCompile Include="二分pie.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Pokemen Go.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Odd Sum Segments.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="洛谷选数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ilya Long Walk.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01string.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
