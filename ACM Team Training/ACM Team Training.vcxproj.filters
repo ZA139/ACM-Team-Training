@@ -28,6 +28,9 @@
     <Filter Include="源文件\线段树">
       <UniqueIdentifier>{9d4d3bec-7251-46aa-b62e-2434f7874991}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\8-20 codeforces">
+      <UniqueIdentifier>{bd9ebdf6-fbee-4bc6-a330-e4f86149ff9f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="【洛谷】密码.cpp">
@@ -257,6 +260,27 @@
     </ClCompile>
     <ClCompile Include="数字反转.cpp">
       <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="8-20A.cpp">
+      <Filter>源文件\8-20 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="8-20B.cpp">
+      <Filter>源文件\8-20 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="8-20C.cpp">
+      <Filter>源文件\8-20 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="8-20D.cpp">
+      <Filter>源文件\8-20 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="8-20E.cpp">
+      <Filter>源文件\8-20 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Buy Tickets.cpp">
+      <Filter>源文件\线段树</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
