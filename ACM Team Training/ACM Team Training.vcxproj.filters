@@ -276,11 +276,14 @@
     <ClCompile Include="8-20E.cpp">
       <Filter>源文件\8-20 codeforces</Filter>
     </ClCompile>
-    <ClCompile Include="源.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Buy Tickets.cpp">
       <Filter>源文件\线段树</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue.cpp">
+      <Filter>源文件\线段树</Filter>
+    </ClCompile>
+    <ClCompile Include="Balanced Substring.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
