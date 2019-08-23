@@ -31,6 +31,12 @@
     <Filter Include="源文件\8-20 codeforces">
       <UniqueIdentifier>{bd9ebdf6-fbee-4bc6-a330-e4f86149ff9f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\8-22 codeforces">
+      <UniqueIdentifier>{22944768-a30b-4c1a-8dc4-3d7241d1f9be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\8-23 ccpc">
+      <UniqueIdentifier>{c8fccc03-c80a-40e9-9592-9fa22ae91982}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="【洛谷】密码.cpp">
@@ -162,9 +168,6 @@
     <ClCompile Include="FatMouse.cpp">
       <Filter>源文件\AC</Filter>
     </ClCompile>
-    <ClCompile Include="01matrix.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Cow%27s Work.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -237,9 +240,6 @@
     <ClCompile Include="二分pie.cpp">
       <Filter>源文件\AC</Filter>
     </ClCompile>
-    <ClCompile Include="Pokemen Go.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Odd Sum Segments.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -267,15 +267,6 @@
     <ClCompile Include="8-20B.cpp">
       <Filter>源文件\8-20 codeforces</Filter>
     </ClCompile>
-    <ClCompile Include="8-20C.cpp">
-      <Filter>源文件\8-20 codeforces</Filter>
-    </ClCompile>
-    <ClCompile Include="8-20D.cpp">
-      <Filter>源文件\8-20 codeforces</Filter>
-    </ClCompile>
-    <ClCompile Include="8-20E.cpp">
-      <Filter>源文件\8-20 codeforces</Filter>
-    </ClCompile>
     <ClCompile Include="Buy Tickets.cpp">
       <Filter>源文件\线段树</Filter>
     </ClCompile>
@@ -283,7 +274,37 @@
       <Filter>源文件\线段树</Filter>
     </ClCompile>
     <ClCompile Include="Balanced Substring.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22B.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22F.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22J.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22 B.cpp">
+      <Filter>源文件\8-22 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22A.cpp">
+      <Filter>源文件\8-22 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22E.cpp">
+      <Filter>源文件\8-23 ccpc</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22C.cpp">
+      <Filter>源文件\8-23 ccpc</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22D.cpp">
+      <Filter>源文件\8-23 ccpc</Filter>
+    </ClCompile>
+    <ClCompile Include="CCPC A.cpp">
+      <Filter>源文件\8-23 ccpc</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
