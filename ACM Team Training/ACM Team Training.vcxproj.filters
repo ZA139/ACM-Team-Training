@@ -37,6 +37,9 @@
     <Filter Include="源文件\8-23 ccpc">
       <UniqueIdentifier>{c8fccc03-c80a-40e9-9592-9fa22ae91982}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\8-22训练赛">
+      <UniqueIdentifier>{cfb3874e-32d0-4cf3-9057-d1ed4f57f5d6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="【洛谷】密码.cpp">
@@ -276,24 +279,6 @@
     <ClCompile Include="Balanced Substring.cpp">
       <Filter>源文件\AC</Filter>
     </ClCompile>
-    <ClCompile Include="8-22B.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="8-22F.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="8-22J.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="8-22I.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="8-22 B.cpp">
-      <Filter>源文件\8-22 codeforces</Filter>
-    </ClCompile>
-    <ClCompile Include="8-22A.cpp">
-      <Filter>源文件\8-22 codeforces</Filter>
-    </ClCompile>
     <ClCompile Include="CCPC 1006.cpp">
       <Filter>源文件\8-23 ccpc</Filter>
     </ClCompile>
@@ -302,6 +287,30 @@
     </ClCompile>
     <ClCompile Include="CCPC 1007.cpp">
       <Filter>源文件\8-23 ccpc</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22 A.cpp">
+      <Filter>源文件\8-22 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22 CF B.cpp">
+      <Filter>源文件\8-22 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22J.cpp">
+      <Filter>源文件\8-22训练赛</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22B.cpp">
+      <Filter>源文件\8-22训练赛</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22F.cpp">
+      <Filter>源文件\8-22训练赛</Filter>
+    </ClCompile>
+    <ClCompile Include="8-22I.cpp">
+      <Filter>源文件\8-22训练赛</Filter>
+    </ClCompile>
+    <ClCompile Include="酸菜鱼线段树D.cpp">
+      <Filter>源文件\线段树</Filter>
+    </ClCompile>
+    <ClCompile Include="测试数据生成姬.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
