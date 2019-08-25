@@ -9,10 +9,6 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="资源文件">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
     <Filter Include="源文件\AC">
       <UniqueIdentifier>{30e0be28-ba38-44ae-99bf-b4bcf3ef927a}</UniqueIdentifier>
     </Filter>
@@ -25,9 +21,6 @@
     <Filter Include="源文件\The 2018 ACM-ICPC Asia Nanjing Regional Programming Contest">
       <UniqueIdentifier>{d4ca1c90-12ed-47b0-8ae5-bb1ddcf40b9d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\线段树">
-      <UniqueIdentifier>{9d4d3bec-7251-46aa-b62e-2434f7874991}</UniqueIdentifier>
-    </Filter>
     <Filter Include="源文件\8-20 codeforces">
       <UniqueIdentifier>{bd9ebdf6-fbee-4bc6-a330-e4f86149ff9f}</UniqueIdentifier>
     </Filter>
@@ -39,6 +32,16 @@
     </Filter>
     <Filter Include="源文件\8-22训练赛">
       <UniqueIdentifier>{cfb3874e-32d0-4cf3-9057-d1ed4f57f5d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\紫书">
+      <UniqueIdentifier>{294310b8-201d-49ed-a1ff-261b0341daff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\线段树">
+      <UniqueIdentifier>{9d4d3bec-7251-46aa-b62e-2434f7874991}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -174,9 +177,6 @@
     <ClCompile Include="Cow%27s Work.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="HDU treasure.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="组合数.cpp">
       <Filter>源文件\AC</Filter>
     </ClCompile>
@@ -310,6 +310,18 @@
       <Filter>源文件\线段树</Filter>
     </ClCompile>
     <ClCompile Include="测试数据生成姬.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Crossword Answers.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="All In All.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="KickDown.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="Box.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
