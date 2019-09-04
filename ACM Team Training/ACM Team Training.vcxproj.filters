@@ -43,6 +43,18 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\8-30淘汰赛">
+      <UniqueIdentifier>{0c052514-f0c2-44ed-865c-bafa538376da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\8-30 codeforces">
+      <UniqueIdentifier>{232c58d0-a534-4388-ac17-ae1650c76eb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\The 2019 Asia Yinchuan First Round Online Programming">
+      <UniqueIdentifier>{b22806bb-6374-4483-bc4f-db63dcb6e500}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\The Preliminary Contest for ICPC Asia Nanjing 2019">
+      <UniqueIdentifier>{0d134f1d-8df4-4243-92fe-e1b9f2857f0d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="【洛谷】密码.cpp">
@@ -249,9 +261,6 @@
     <ClCompile Include="洛谷选数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="01string.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Ilya Long Walk.cpp">
       <Filter>源文件\AC</Filter>
     </ClCompile>
@@ -323,6 +332,96 @@
     </ClCompile>
     <ClCompile Include="Box.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="XORinacci.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01string.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="Uniqueness.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串周期.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1001.cpp">
+      <Filter>源文件\8-30淘汰赛</Filter>
+    </ClCompile>
+    <ClCompile Include="1002.cpp">
+      <Filter>源文件\8-30淘汰赛</Filter>
+    </ClCompile>
+    <ClCompile Include="1003.cpp">
+      <Filter>源文件\8-30淘汰赛</Filter>
+    </ClCompile>
+    <ClCompile Include="1004.cpp">
+      <Filter>源文件\8-30淘汰赛</Filter>
+    </ClCompile>
+    <ClCompile Include="1005.cpp">
+      <Filter>源文件\8-30淘汰赛</Filter>
+    </ClCompile>
+    <ClCompile Include="1006.cpp">
+      <Filter>源文件\8-30淘汰赛</Filter>
+    </ClCompile>
+    <ClCompile Include="1007.cpp">
+      <Filter>源文件\8-30淘汰赛</Filter>
+    </ClCompile>
+    <ClCompile Include="1008.cpp">
+      <Filter>源文件\8-30淘汰赛</Filter>
+    </ClCompile>
+    <ClCompile Include="1009.cpp">
+      <Filter>源文件\8-30淘汰赛</Filter>
+    </ClCompile>
+    <ClCompile Include="1010.cpp">
+      <Filter>源文件\8-30淘汰赛</Filter>
+    </ClCompile>
+    <ClCompile Include="8-29训练赛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="J.cpp">
+      <Filter>源文件\8-30淘汰赛</Filter>
+    </ClCompile>
+    <ClCompile Include="D.cpp">
+      <Filter>源文件\8-30淘汰赛</Filter>
+    </ClCompile>
+    <ClCompile Include="F.cpp">
+      <Filter>源文件\8-30淘汰赛</Filter>
+    </ClCompile>
+    <ClCompile Include="G.cpp">
+      <Filter>源文件\8-30淘汰赛</Filter>
+    </ClCompile>
+    <ClCompile Include="8-30A.cpp">
+      <Filter>源文件\8-30 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="8-30 B.cpp">
+      <Filter>源文件\8-30 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="YinChuanF.cpp">
+      <Filter>源文件\The Preliminary Contest for ICPC Asia Nanjing 2019</Filter>
+    </ClCompile>
+    <ClCompile Include="YinChuanA.cpp">
+      <Filter>源文件\The Preliminary Contest for ICPC Asia Nanjing 2019</Filter>
+    </ClCompile>
+    <ClCompile Include="YinChuanB.cpp">
+      <Filter>源文件\The Preliminary Contest for ICPC Asia Nanjing 2019</Filter>
+    </ClCompile>
+    <ClCompile Include="YinChuanC.cpp">
+      <Filter>源文件\The Preliminary Contest for ICPC Asia Nanjing 2019</Filter>
+    </ClCompile>
+    <ClCompile Include="YinChuanD.cpp">
+      <Filter>源文件\The Preliminary Contest for ICPC Asia Nanjing 2019</Filter>
+    </ClCompile>
+    <ClCompile Include="YinChuanE.cpp">
+      <Filter>源文件\The Preliminary Contest for ICPC Asia Nanjing 2019</Filter>
+    </ClCompile>
+    <ClCompile Include="A+B线段树.cpp">
+      <Filter>源文件\The Preliminary Contest for ICPC Asia Nanjing 2019</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
