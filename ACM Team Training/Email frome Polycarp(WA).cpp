@@ -2,7 +2,7 @@
 #include<string>
 #include<string.h>
 using namespace std;
-char s[10000000], s2[10000000];
+char s1[10000000], s2[10000000];
 int main(void) {
 	ios::sync_with_stdio(false);
 	cin.tie(0);
@@ -13,18 +13,18 @@ int main(void) {
 	{
 		int k = 0, cnt = 0;
 		bool ans = true;
-		cin >> s >> s2;
-		long long len1 = strlen(s), len2 = strlen(s2);
+		cin >> s1 >> s2;
+		long long len1 = strlen(s1), len2 = strlen(s2);
 		for (long long i = 0; i < len1&&k < len2; i++)
 		{
 			bool a = false;
-			if (s[i] != s2[k]||cnt>0)
+			if (s1[i] != s2[k]||cnt>0)
 			{
 				ans = false;
 				break;
 			}
 			cnt = 0;
-			while (s[i + 1] == s[i])
+			while (s1[i + 1] == s1[i])
 			{
 				a = true;
 				i++;
@@ -35,12 +35,12 @@ int main(void) {
 				i++;
 				a = false;
 			}
-			if (s2[k] == s[i])
+			if (s2[k] == s1[i])
 			{
 				k++;
 				//cnt--;
 			}
-			while (s[k+1]==s[k])
+			while (s1[k+1]==s1[k])
 			{
 				k++;
 				a = true;

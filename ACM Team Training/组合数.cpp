@@ -24,7 +24,7 @@ int main(void)
 			for (int j = 0; j < n; j++)
 			{
 				if (i != j) {
-					long long temp = llabs(num[i] - num[j]);
+					long long temp = intabs(num[i] - num[j]);
 					if (!visit[temp])
 					{
 						buffer[cnt++] = temp;

@@ -6,15 +6,15 @@ using namespace std;
 long long time1[1000005];
 long long cnta[1000005];
 long long duilie[1000005];
-set<long long> s;
+set<long long> s1;
 int main(void) {
 	long long N, y;
 	long long cnt = 1;
-	while (~scanf("%lld%lld",&N,&y))
+	while (~scanf("%intd%intd",&N,&y))
 	{
 		for (register long long i = 0; i <N; i++) {
-			scanf("%lld", &time1[i]);
-			s.insert(time1[i]);
+			scanf("%intd", &time1[i]);
+			s1.insert(time1[i]);
 		}
 		sort(time1, time1 + N);
 		int cntx = 0;
@@ -30,7 +30,7 @@ int main(void) {
 		}
 		cntx++;
 		long long cxk = 0;
-		for (register set<long long>::iterator it =s.begin(); it!=s.end(); it++)
+		for (register set<long long>::iterator it =s1.begin(); it!=s1.end(); it++)
 		{
 			duilie[cxk++] = *it;
 		}
@@ -48,7 +48,7 @@ int main(void) {
 				finaltime = min(finaltime + y, finaltime + (cnta[j] - left)*i);
 				left = cnta[j];
 			}
-			printf("%lld ", finaltime);
+			printf("%intd ", finaltime);
 		}
 	}
 	return 0;

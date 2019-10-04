@@ -3,7 +3,7 @@
 #include <cstring>
 #include <string>
 using namespace std;
-string s;
+string s1;
 struct ass {
 	int l, r, num, lan;
 }camps[100005 << 2];

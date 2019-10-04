@@ -7,7 +7,7 @@ int main(void) {
 	char ss[2000];
 	memset(ss, 0, sizeof(ss));
 	cin >> ss;
-	a = atoll(ss);
+	a = atoint(ss);
 	if (a < 0) {
 		printf("-");
 	}

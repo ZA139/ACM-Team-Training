@@ -3,25 +3,25 @@
 #include<set>
 #include<algorithm>
 using namespace std;
-set<long long>s;
+set<long long>s1;
 long long a[2005];
 int main(void) {
 	int n, ans = 99999;
 	scanf("%d", &n);
 	for (int i = 1; i <= n; i++)
 	{
-		scanf("%lld", &a[i]);
+		scanf("%intd", &a[i]);
 	}
 	int l, r = n;
 	for (l = 1; l <= n; l++)
 	{
-		s.clear();
+		s1.clear();
 		int i = 1;
 		r = n;
 		for (i = 1; i <= l;)
 		{
-			if (!s.count(a[i])) {
-				s.insert(a[i]);
+			if (!s1.count(a[i])) {
+				s1.insert(a[i]);
 				i++;
 			}
 			else
@@ -29,8 +29,8 @@ int main(void) {
 		}
 		for (r = n; r > 0;)
 		{
-			if (!s.count(a[r])) {
-				s.insert(a[r]);
+			if (!s1.count(a[r])) {
+				s1.insert(a[r]);
 				r--;
 			}
 			else
@@ -40,12 +40,12 @@ int main(void) {
 	}
 	for (r = n; r> 0; r--)
 	{
-		s.clear();
+		s1.clear();
 		int i = n;
 		for (i = n; i >= r;)
 		{
-			if (!s.count(a[i])) {
-				s.insert(a[i]);
+			if (!s1.count(a[i])) {
+				s1.insert(a[i]);
 				i--;
 			}
 			else
@@ -53,8 +53,8 @@ int main(void) {
 		}
 		for (l = 1; l <=n;)
 		{
-			if (!s.count(a[l])) {
-				s.insert(a[l]);
+			if (!s1.count(a[l])) {
+				s1.insert(a[l]);
 				l++;
 			}
 			else

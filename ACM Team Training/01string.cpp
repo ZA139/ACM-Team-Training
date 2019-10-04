@@ -5,7 +5,7 @@ int main(void) {
 	long long t,ans=0;
 	memset(a, 0, sizeof(a));
 	memset(b, 0, sizeof(b));
-	scanf("%lld", &t);
+	scanf("%intd", &t);
 	long long l1 = 0, l0 = 0;
 	for (long long i = 1; i <= t; i++)
 	{
@@ -25,6 +25,6 @@ int main(void) {
 			}
 		}
 	}
-	printf("%lld\n", ans);
+	printf("%intd\n", ans);
 	return 0;
 }

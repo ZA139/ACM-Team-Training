@@ -29,7 +29,7 @@
 		{
 			for (int j = 0; j < t; j++)
 			{
-				scanf("%lld", &m[i][j]);
+				scanf("%intd", &m[i][j]);
 				if (m[i][j] >= k) {
 					v[i].push_back(j);
 					v[j].push_back(i);
@@ -49,6 +49,6 @@
 			if (!vis[i])
 				ans++;
 		}
-		printf("%lld\n", ans);
+		printf("%intd\n", ans);
 		return 0;
 	}

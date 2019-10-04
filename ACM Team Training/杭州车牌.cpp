@@ -42,9 +42,9 @@ int main(void)
 			m = t;
 		}
 		if (judge(n))
-			printf("%lld\n", dp[m] - dp[n] + 1);
+			printf("%intd\n", dp[m] - dp[n] + 1);
 		else
-			printf("%lld\n", dp[m] - dp[n]);
+			printf("%intd\n", dp[m] - dp[n]);
 		scanf("%d%d", &n, &m);
 	}
 	return 0;

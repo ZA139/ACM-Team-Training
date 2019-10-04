@@ -1,0 +1,29 @@
+#include<cstdio>
+struct MyStruct
+{
+	bool on;
+	int begin;
+	int time;
+}lamp[105];
+int main(void) {
+	int n,nmsl;
+	scanf("%d", &n);
+	for (int i = 0; i < n; i++)
+	{
+		scanf("%1d", &nmsl);
+		lamp[i].on = nmsl;
+	}
+	for (int i = 0; i <n; i++)
+	{
+		scanf("%d%d", &lamp[i].begin, &lamp[i].time);
+	}
+	for (int i = 0; i < 20; i++)
+	{
+		for (int j = 0; j < n; j++) {
+			if ((i % lamp[j].begin)-lamp[j].time == 0) {
+				lamp[j].on = !lamp[j].on;
+			}
+		}
+	}
+	return 0;
+}

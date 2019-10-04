@@ -6,8 +6,8 @@
 #include <iostream>
 using namespace std;
 int A[60][60], B[60][60], ans[10000000][2];
-typedef long long ll;
-ll cnt1 = 0, cnt = 0;
+typedef long long int;
+int cnt1 = 0, cnt = 0;
 int n, m;//paixu
 int slove(int x, int y) {
 	if (A[x][y] && A[x][y + 1] && A[x + 1][y] && A[x + 1][y + 1]) {//ËÄ¸öÎª1

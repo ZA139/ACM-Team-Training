@@ -5,12 +5,12 @@
 #include <algorithm>
 #include <iostream>
 using namespace std;
-typedef long long ll;
+typedef long long int;
 char ch[105];
 int main(void) {
 	cin >> ch;
-	ll ans = 0;
-	ll len = strlen(ch);
+	int ans = 0;
+	int len = strlen(ch);
 	if (len > 1)
 		ans++;
 	ans += (len - 1) / 2;
@@ -26,6 +26,6 @@ int main(void) {
 		ans--;
 	if (ans == -1)
 		ans = 0;
-	printf("%lld\n", ans);
+	printf("%intd\n", ans);
 	return 0;
 }

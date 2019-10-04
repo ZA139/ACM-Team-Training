@@ -5,16 +5,16 @@
 #include <algorithm>
 #include <iostream>
 using namespace std;
-typedef long long ll;
-ll A, B, C;
+typedef long long int;
+int A, B, C;
 int main(void) {
-	ll t;
-	scanf("%lld", &t);
+	int t;
+	scanf("%intd", &t);
 	while (t--)
 	{
-		scanf("%lld%lld", &A, &B);
+		scanf("%intd%intd", &A, &B);
 		if (A&B) {
-			printf("%lld\n", A&B);
+			printf("%intd\n", A&B);
 		}
 		else
 			printf("1\n");

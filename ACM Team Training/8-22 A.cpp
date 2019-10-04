@@ -5,17 +5,17 @@
 #include <algorithm>
 #include <iostream>
 using namespace std;
-typedef long long ll;
+typedef long long int;
 int main(void) {
 	int t;
 	scanf("%d", &t);
 	while (t--)
 	{
-		ll ans = 0;
-		ll b, p, f;
-		scanf("%lld%lld%lld", &b, &p, &f);
-		ll p1, p2;
-		scanf("%lld%lld", &p1, &p2);
+		int ans = 0;
+		int b, p, f;
+		scanf("%intd%intd%intd", &b, &p, &f);
+		int p1, p2;
+		scanf("%intd%intd", &p1, &p2);
 		if (p1 < p2) {
 			swap(p, f);
 			swap(p1, p2);
@@ -35,7 +35,7 @@ int main(void) {
 			else
 				break;
 		}
-		printf("%lld\n", ans);
+		printf("%intd\n", ans);
 	}
 	return 0;
 }

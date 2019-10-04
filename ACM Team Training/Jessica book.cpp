@@ -43,7 +43,7 @@
 using namespace std;
 int arrays[1000010];
 map<int, int>spots;
-set<int>s;
+set<int>s1;
 inline int min(int a, int b) {
 	return a > b ? b : a;
 }
@@ -55,9 +55,9 @@ int main(void) {
 	for (size_t i = 0; i < a; i++)
 	{
 		cin >> arrays[i];
-		s.insert(arrays[i]);
+		s1.insert(arrays[i]);
 	}
-	int len = s.size();
+	int len = s1.size();
 
 	int s = 0, t = 0, num = 0;
 	int res = a;

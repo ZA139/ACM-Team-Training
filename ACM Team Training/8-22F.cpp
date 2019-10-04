@@ -2,7 +2,7 @@
 #include<cstring>
 #include<string>
 using namespace std;
-char s[1000];
+char s1[1000];
 char matrix[105][105];
 int cnt;
 char a[105][105];
@@ -13,7 +13,7 @@ inline void slove(int i) {
 			for (int y = 0; y <= i; y++)
 			{
 				if (x + y == i&&matrix[x][y]!='\0') {
-					s[cnt++] = matrix[x][y];
+					s1[cnt++] = matrix[x][y];
 				}
 			}
 		}
@@ -25,7 +25,7 @@ inline void slove(int i) {
 			for (int y = i; y >=0; y--)
 			{
 				if (x + y == i && matrix[x][y] != '\0') {
-					s[cnt++] = matrix[x][y];
+					s1[cnt++] = matrix[x][y];
 				}
 			}
 		}
@@ -47,7 +47,7 @@ int main(void) {
 		cnt = 0;
 		memset(matrix, 0, sizeof(matrix));
 		memset(a, 0, sizeof(a));
-		memset(s, 0, sizeof(s));
+		memset(s1, 0, sizeof(s1));
 		for (int i = 0; i < t; i++)
 		{
 			scanf("%s", matrix[i]);
@@ -61,20 +61,20 @@ int main(void) {
 		while (tot < t*t)
 		{
 			while (y < t && a[x][y] == '\0') 
-				a[x][y++] = s[tot++];
+				a[x][y++] = s1[tot++];
 			y--;
 			x++;
 			while (x < t && a[x][y]=='\0') 
-				a[x++][y] = s[tot++];
+				a[x++][y] = s1[tot++];
 			x--;
 			y--;
 			while (y >= 0 && a[x][y] == '\0') 
-				a[x][y--] = s[tot++];
+				a[x][y--] = s1[tot++];
 			//print(t);
 			y++;
 			x--;
 			while (x>= 0 && a[x][y] == '\0') 
-				a[x--][y] = s[tot++];
+				a[x--][y] = s1[tot++];
 			x++;
 			y++;
 		}

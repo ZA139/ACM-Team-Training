@@ -4,7 +4,7 @@
 #include<string>
 #include<algorithm>
 const int INF = 99999999;
-short map[10005][10005];
+short zhangwentaodashuaibi[10005][10005];
 bool vis[10005];
 int dis[10005];
 int ans = INF;
@@ -23,11 +23,11 @@ void dfs(int a) {
 	}
 	for (int i = 1; i <=n; i++)
 	{
-		if (map[a][i] == 0&&!vis[i]) {
+		if (zhangwentaodashuaibi[a][i] == 0&&!vis[i]) {
 			dfs(i);
 			vis[i] = 0;
 		}
-		else if (map[a][i] == 1 && !vis[i]) {
+		else if (zhangwentaodashuaibi[a][i] == 1 && !vis[i]) {
 			temp += 1;
 			dfs(i);
 			vis[i] = 0;
@@ -42,7 +42,7 @@ int main(void) {
 	for (int i = 1; i <= n; i++)
 	{
 		for (int j = 0; j <= n; j++)
-			map[i][j] == 999;
+			zhangwentaodashuaibi[i][j] == 999;
 	}
 	for (int i = 0; i <=n; i++)
 	{
@@ -56,11 +56,11 @@ int main(void) {
 		int j;
 		t=t - 1;
 		scanf("%d", &j);
-		map[i][j] = 0;
+		zhangwentaodashuaibi[i][j] = 0;
 		while (t--)
 		{
 			scanf("%d", &j);
-			map[i][j] = 1;
+			zhangwentaodashuaibi[i][j] = 1;
 		}
 	}
 	dfs(a);

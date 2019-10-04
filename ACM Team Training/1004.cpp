@@ -12,7 +12,7 @@ int main(void) {
 	long long te;
 	for (long long i = 1; i <=t; i++)
 	{
-		scanf("%lld", &te);
+		scanf("%intd", &te);
 		temp += te;
 		num[i] = temp;
 	}
@@ -21,8 +21,8 @@ int main(void) {
 	sort(num, num + t+1);
 	for (long long i = 0; i <= t - 1; i++)
 	{
-		mim = min(mim, llabs(num[i + 1] - num[i]));
+		mim = min(mim, intabs(num[i + 1] - num[i]));
 	}
-	printf("%lld %lld\n", mim,llabs(num[t] - num[0]));
+	printf("%intd %intd\n", mim,intabs(num[t] - num[0]));
 	return 0;
 }

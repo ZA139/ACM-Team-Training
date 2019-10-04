@@ -1,7 +1,7 @@
 #include<iostream>
 #include<stack>
 using namespace std;
-stack<int>s;
+stack<int>s1;
 int arrays[10] = { 0 }, temp, dtemp;
 long long factorial(int a) {
 	if (!a)

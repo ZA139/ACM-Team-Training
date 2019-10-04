@@ -20,11 +20,11 @@ bool check(long long a) {
 int main(void) {
 	memset(stones, 0, sizeof(stones));
 	/*memset(distance, 0, sizeof(distance))*/;
-	scanf("%lld%lld%lld", &M, &N, &L);
+	scanf("%intd%intd%intd", &M, &N, &L);
 	stones[0] = 0;
 	for (long long  i =1; i <=N; i++)
 	{
-		scanf("%lld", &stones[i]);
+		scanf("%intd", &stones[i]);
 	/*	distance[i] = stones[i] - stones[i - 1];*/
 	}
 	/*distance[N+1] = M - stones[N];*/
@@ -37,6 +37,6 @@ int main(void) {
 		else
 			M = mid - 1;
 	}
-	printf("%lld",M);
+	printf("%intd",M);
 	return 0;
 }

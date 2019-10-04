@@ -18,7 +18,7 @@ int main(void) {
 		memset(temp, 0, sizeof(temp));
 		long long  n;
 		long long sum = 0;
-		scanf("%lld", &n);
+		scanf("%intd", &n);
 		for (long long i = 0; i <n; i++)
 		{
 			char ch = getchar();

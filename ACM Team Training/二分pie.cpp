@@ -20,11 +20,11 @@ bool check(double r) {
 }
 int main(void) {
 
-	scanf("%lld", &t);
+	scanf("%intd", &t);
 	while (t--)
 	{
 		memset(cake, 0, sizeof(cake));
-		scanf("%lld%lld", &N, &F);
+		scanf("%intd%intd", &N, &F);
 		F++;
 		for (int i = 0; i < N; i++)
 		{

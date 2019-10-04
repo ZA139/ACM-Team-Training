@@ -21,18 +21,6 @@
     <Filter Include="源文件\The 2018 ACM-ICPC Asia Nanjing Regional Programming Contest">
       <UniqueIdentifier>{d4ca1c90-12ed-47b0-8ae5-bb1ddcf40b9d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\8-20 codeforces">
-      <UniqueIdentifier>{bd9ebdf6-fbee-4bc6-a330-e4f86149ff9f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\8-22 codeforces">
-      <UniqueIdentifier>{22944768-a30b-4c1a-8dc4-3d7241d1f9be}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\8-23 ccpc">
-      <UniqueIdentifier>{c8fccc03-c80a-40e9-9592-9fa22ae91982}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\8-22训练赛">
-      <UniqueIdentifier>{cfb3874e-32d0-4cf3-9057-d1ed4f57f5d6}</UniqueIdentifier>
-    </Filter>
     <Filter Include="源文件\紫书">
       <UniqueIdentifier>{294310b8-201d-49ed-a1ff-261b0341daff}</UniqueIdentifier>
     </Filter>
@@ -43,17 +31,65 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="源文件\8-30淘汰赛">
-      <UniqueIdentifier>{0c052514-f0c2-44ed-865c-bafa538376da}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\8-30 codeforces">
-      <UniqueIdentifier>{232c58d0-a534-4388-ac17-ae1650c76eb3}</UniqueIdentifier>
-    </Filter>
     <Filter Include="源文件\The 2019 Asia Yinchuan First Round Online Programming">
       <UniqueIdentifier>{b22806bb-6374-4483-bc4f-db63dcb6e500}</UniqueIdentifier>
     </Filter>
     <Filter Include="源文件\The Preliminary Contest for ICPC Asia Nanjing 2019">
       <UniqueIdentifier>{0d134f1d-8df4-4243-92fe-e1b9f2857f0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\The Preliminary Contest for ICPC Asia Xuzhou 2019">
+      <UniqueIdentifier>{9a9251d8-3a9d-4ba3-9a27-60d02c483db6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CodeForces">
+      <UniqueIdentifier>{c1e99802-4266-4b4a-848e-28a8bd699ba9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CodeForces\8-20 codeforces">
+      <UniqueIdentifier>{bd9ebdf6-fbee-4bc6-a330-e4f86149ff9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CodeForces\8-22 codeforces">
+      <UniqueIdentifier>{22944768-a30b-4c1a-8dc4-3d7241d1f9be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CodeForces\8-30 codeforces">
+      <UniqueIdentifier>{232c58d0-a534-4388-ac17-ae1650c76eb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CodeForces\Pratice">
+      <UniqueIdentifier>{06c1bdec-cebf-4cd8-b44c-ae4cec18964c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\PTA">
+      <UniqueIdentifier>{c8ffae1c-5a74-44c7-ac6e-c48ebea7afcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CCF">
+      <UniqueIdentifier>{891b67fb-f58d-4574-83d6-a75a9ecbcb6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CSP认证2019-09-15">
+      <UniqueIdentifier>{7e2b14e4-f193-4684-b124-c0c9bf43efe2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CodeForces\9-21 codeforces">
+      <UniqueIdentifier>{4f5f2840-741c-4376-99c9-b55173c5580d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\训练赛">
+      <UniqueIdentifier>{b9d8d197-70f3-43b4-937b-15d1ca6395e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\8-23 ccpc">
+      <UniqueIdentifier>{c8fccc03-c80a-40e9-9592-9fa22ae91982}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\训练赛\8-22训练赛">
+      <UniqueIdentifier>{cfb3874e-32d0-4cf3-9057-d1ed4f57f5d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\训练赛\8-30淘汰赛">
+      <UniqueIdentifier>{0c052514-f0c2-44ed-865c-bafa538376da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\训练赛\9-22训练赛">
+      <UniqueIdentifier>{b23b6b5b-1df3-4c02-ad80-bbf5a3866939}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CodeForces\9-29 codeforces">
+      <UniqueIdentifier>{e23a4e60-545a-4f43-be13-85ad3e0c07f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\训练赛\大二上学期训练">
+      <UniqueIdentifier>{fe5e629e-bf1f-463a-865f-b636fe8ad1ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CodeForces\9-23 codeforces 1230">
+      <UniqueIdentifier>{825b5604-548f-4bb4-a8c0-704f99982ba4}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -186,9 +222,6 @@
     <ClCompile Include="FatMouse.cpp">
       <Filter>源文件\AC</Filter>
     </ClCompile>
-    <ClCompile Include="Cow%27s Work.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="组合数.cpp">
       <Filter>源文件\AC</Filter>
     </ClCompile>
@@ -215,9 +248,6 @@
     </ClCompile>
     <ClCompile Include="A substr.cpp">
       <Filter>源文件\AC</Filter>
-    </ClCompile>
-    <ClCompile Include="KMP数列.cpp">
-      <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="二分砍树.cpp">
       <Filter>源文件\AC</Filter>
@@ -258,9 +288,6 @@
     <ClCompile Include="Odd Sum Segments.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="洛谷选数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Ilya Long Walk.cpp">
       <Filter>源文件\AC</Filter>
     </ClCompile>
@@ -274,10 +301,10 @@
       <Filter>源文件\AC</Filter>
     </ClCompile>
     <ClCompile Include="8-20A.cpp">
-      <Filter>源文件\8-20 codeforces</Filter>
+      <Filter>源文件\CodeForces\8-20 codeforces</Filter>
     </ClCompile>
     <ClCompile Include="8-20B.cpp">
-      <Filter>源文件\8-20 codeforces</Filter>
+      <Filter>源文件\CodeForces\8-20 codeforces</Filter>
     </ClCompile>
     <ClCompile Include="Buy Tickets.cpp">
       <Filter>源文件\线段树</Filter>
@@ -298,22 +325,22 @@
       <Filter>源文件\8-23 ccpc</Filter>
     </ClCompile>
     <ClCompile Include="8-22 A.cpp">
-      <Filter>源文件\8-22 codeforces</Filter>
+      <Filter>源文件\CodeForces\8-22 codeforces</Filter>
     </ClCompile>
     <ClCompile Include="8-22 CF B.cpp">
-      <Filter>源文件\8-22 codeforces</Filter>
+      <Filter>源文件\CodeForces\8-22 codeforces</Filter>
     </ClCompile>
     <ClCompile Include="8-22J.cpp">
-      <Filter>源文件\8-22训练赛</Filter>
+      <Filter>源文件\训练赛\8-22训练赛</Filter>
     </ClCompile>
     <ClCompile Include="8-22B.cpp">
-      <Filter>源文件\8-22训练赛</Filter>
+      <Filter>源文件\训练赛\8-22训练赛</Filter>
     </ClCompile>
     <ClCompile Include="8-22F.cpp">
-      <Filter>源文件\8-22训练赛</Filter>
+      <Filter>源文件\训练赛\8-22训练赛</Filter>
     </ClCompile>
     <ClCompile Include="8-22I.cpp">
-      <Filter>源文件\8-22训练赛</Filter>
+      <Filter>源文件\训练赛\8-22训练赛</Filter>
     </ClCompile>
     <ClCompile Include="酸菜鱼线段树D.cpp">
       <Filter>源文件\线段树</Filter>
@@ -330,77 +357,59 @@
     <ClCompile Include="KickDown.cpp">
       <Filter>源文件\紫书</Filter>
     </ClCompile>
-    <ClCompile Include="Box.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="XORinacci.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="01string.cpp">
       <Filter>源文件\紫书</Filter>
     </ClCompile>
     <ClCompile Include="Uniqueness.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="源.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="01串.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="字符串周期.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="1001.cpp">
-      <Filter>源文件\8-30淘汰赛</Filter>
+      <Filter>源文件\训练赛\8-30淘汰赛</Filter>
     </ClCompile>
     <ClCompile Include="1002.cpp">
-      <Filter>源文件\8-30淘汰赛</Filter>
+      <Filter>源文件\训练赛\8-30淘汰赛</Filter>
     </ClCompile>
     <ClCompile Include="1003.cpp">
-      <Filter>源文件\8-30淘汰赛</Filter>
+      <Filter>源文件\训练赛\8-30淘汰赛</Filter>
     </ClCompile>
     <ClCompile Include="1004.cpp">
-      <Filter>源文件\8-30淘汰赛</Filter>
+      <Filter>源文件\训练赛\8-30淘汰赛</Filter>
     </ClCompile>
     <ClCompile Include="1005.cpp">
-      <Filter>源文件\8-30淘汰赛</Filter>
+      <Filter>源文件\训练赛\8-30淘汰赛</Filter>
     </ClCompile>
     <ClCompile Include="1006.cpp">
-      <Filter>源文件\8-30淘汰赛</Filter>
+      <Filter>源文件\训练赛\8-30淘汰赛</Filter>
     </ClCompile>
     <ClCompile Include="1007.cpp">
-      <Filter>源文件\8-30淘汰赛</Filter>
+      <Filter>源文件\训练赛\8-30淘汰赛</Filter>
     </ClCompile>
     <ClCompile Include="1008.cpp">
-      <Filter>源文件\8-30淘汰赛</Filter>
+      <Filter>源文件\训练赛\8-30淘汰赛</Filter>
     </ClCompile>
     <ClCompile Include="1009.cpp">
-      <Filter>源文件\8-30淘汰赛</Filter>
+      <Filter>源文件\训练赛\8-30淘汰赛</Filter>
     </ClCompile>
     <ClCompile Include="1010.cpp">
-      <Filter>源文件\8-30淘汰赛</Filter>
-    </ClCompile>
-    <ClCompile Include="8-29训练赛.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\训练赛\8-30淘汰赛</Filter>
     </ClCompile>
     <ClCompile Include="J.cpp">
-      <Filter>源文件\8-30淘汰赛</Filter>
+      <Filter>源文件\训练赛\8-30淘汰赛</Filter>
     </ClCompile>
     <ClCompile Include="D.cpp">
-      <Filter>源文件\8-30淘汰赛</Filter>
+      <Filter>源文件\训练赛\8-30淘汰赛</Filter>
     </ClCompile>
     <ClCompile Include="F.cpp">
-      <Filter>源文件\8-30淘汰赛</Filter>
+      <Filter>源文件\训练赛\8-30淘汰赛</Filter>
     </ClCompile>
     <ClCompile Include="G.cpp">
-      <Filter>源文件\8-30淘汰赛</Filter>
+      <Filter>源文件\训练赛\8-30淘汰赛</Filter>
     </ClCompile>
     <ClCompile Include="8-30A.cpp">
-      <Filter>源文件\8-30 codeforces</Filter>
+      <Filter>源文件\CodeForces\8-30 codeforces</Filter>
     </ClCompile>
     <ClCompile Include="8-30 B.cpp">
-      <Filter>源文件\8-30 codeforces</Filter>
+      <Filter>源文件\CodeForces\8-30 codeforces</Filter>
     </ClCompile>
     <ClCompile Include="YinChuanF.cpp">
       <Filter>源文件\The Preliminary Contest for ICPC Asia Nanjing 2019</Filter>
@@ -422,6 +431,111 @@
     </ClCompile>
     <ClCompile Include="A+B线段树.cpp">
       <Filter>源文件\The Preliminary Contest for ICPC Asia Nanjing 2019</Filter>
+    </ClCompile>
+    <ClCompile Include="xvzhou.cpp">
+      <Filter>源文件\The Preliminary Contest for ICPC Asia Xuzhou 2019</Filter>
+    </ClCompile>
+    <ClCompile Include="xvzhouB.cpp">
+      <Filter>源文件\The Preliminary Contest for ICPC Asia Xuzhou 2019</Filter>
+    </ClCompile>
+    <ClCompile Include="开心的金明.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="小A点菜.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Bad Prices.cpp">
+      <Filter>源文件\CodeForces\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="PTA二分.cpp">
+      <Filter>源文件\PTA</Filter>
+    </ClCompile>
+    <ClCompile Include="无敌模拟hello 2018 （CF 2016E）.cpp">
+      <Filter>源文件\CodeForces\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="小中大.cpp">
+      <Filter>源文件\CCF</Filter>
+    </ClCompile>
+    <ClCompile Include="二十四点.cpp">
+      <Filter>源文件\CCF</Filter>
+    </ClCompile>
+    <ClCompile Include="矿泉水.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="小明上学.cpp">
+      <Filter>源文件\CCF</Filter>
+    </ClCompile>
+    <ClCompile Include="Subsequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="简单线段树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9-21 D.cpp">
+      <Filter>源文件\CodeForces\9-21 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="9-21 C.cpp">
+      <Filter>源文件\CodeForces\9-21 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="9-21 B.cpp">
+      <Filter>源文件\CodeForces\9-21 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="9-21 A.cpp">
+      <Filter>源文件\CodeForces\9-21 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="9-23 a.cpp">
+      <Filter>源文件\CodeForces\9-23 codeforces 1230</Filter>
+    </ClCompile>
+    <ClCompile Include="9-22 A.cpp">
+      <Filter>源文件\训练赛\9-22训练赛</Filter>
+    </ClCompile>
+    <ClCompile Include="9-22 B.cpp">
+      <Filter>源文件\训练赛\9-22训练赛</Filter>
+    </ClCompile>
+    <ClCompile Include="9-22 C.cpp">
+      <Filter>源文件\训练赛\9-22训练赛</Filter>
+    </ClCompile>
+    <ClCompile Include="9-22I.cpp">
+      <Filter>源文件\训练赛\9-22训练赛</Filter>
+    </ClCompile>
+    <ClCompile Include="9-23 b.cpp">
+      <Filter>源文件\CodeForces\9-23 codeforces 1230</Filter>
+    </ClCompile>
+    <ClCompile Include="9-23 C.cpp">
+      <Filter>源文件\CodeForces\9-23 codeforces 1230</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9-29A.cpp">
+      <Filter>源文件\CodeForces\9-29 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="Equalize Prices Again.cpp">
+      <Filter>源文件\CodeForces\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="Mafia.cpp">
+      <Filter>源文件\CodeForces\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="1221A.cpp">
+      <Filter>源文件\CodeForces\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="Broken Keyboard.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="Cable Master.cpp">
+      <Filter>源文件\训练赛\大二上学期训练</Filter>
+    </ClCompile>
+    <ClCompile Include="Jessica%27s Reading Problem .cpp">
+      <Filter>源文件\训练赛\大二上学期训练</Filter>
+    </ClCompile>
+    <ClCompile Include="Marcin and Training Camp D.cpp">
+      <Filter>源文件\CodeForces\9-23 codeforces 1230</Filter>
+    </ClCompile>
+    <ClCompile Include="4 Values Sum is 0.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

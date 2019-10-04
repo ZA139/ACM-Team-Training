@@ -12,6 +12,6 @@ int main(void) {
 			break;
 		}
 	}
-	printf("%lld\n", ans);
+	printf("%intd\n", ans);
 	return 0;
 }

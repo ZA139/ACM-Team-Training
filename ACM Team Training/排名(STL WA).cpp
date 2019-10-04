@@ -9,23 +9,23 @@ int score[2000];
 
 map<string, long long>m;
 vector<pair<string, int>> vtMap;
-string s[1500], e;
+string s1[1500], e;
 int main(void) {
 	//freopen("txt.txt", "w", stdout);
 	while (1)
 	{
 		vtMap.clear();
 		m.clear();
-		auto it = s->begin();
-		auto it2 = s->end();
-		s->erase(it, it2);
+		auto it = s1->begin();
+		auto it2 = s1->end();
+		s1->erase(it, it2);
 		int cnt = 0, k = 0;
 		memset(score, 0, sizeof(score));
 		long long K, TXT, Line;
-		scanf("%lld", &K);
+		scanf("%intd", &K);
 		if (!K)
 			return 0;
-		scanf("%lld%lld", &TXT, &Line);
+		scanf("%intd%intd", &TXT, &Line);
 		for (int i = 1; i <= TXT; i++)
 		{
 			scanf("%d", &score[i]);
@@ -34,10 +34,10 @@ int main(void) {
 		{
 			cin >> e;
 			long long j = 0, score2, total = 0;
-			scanf("%lld", &j);
+			scanf("%intd", &j);
 			while (j--)
 			{
-				scanf("%lld", &score2);
+				scanf("%intd", &score2);
 				total += score[score2];
 				if (total >= Line)
 				{

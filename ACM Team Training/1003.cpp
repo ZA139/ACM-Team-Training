@@ -10,7 +10,7 @@ int main(void) {
 	for (int i = 0; i < 100; i++)
 	{
 		if (ans[n][i] != -1)
-			printf("%lld\n", ans[n][i]);
+			printf("%intd\n", ans[n][i]);
 		else
 			break;
 	}

@@ -26,7 +26,7 @@
 //		tar = max(temp1,r);
 //	}
 //	int temp = 0;
-//	printf("%lld\n", ans);
+//	printf("%intd\n", ans);
 //	return 0;
 //}
 #include<cstdio>
@@ -37,7 +37,7 @@
 using namespace std;
 int main(void) {
 	long long tar, n, c, ans = 0, normal, special, special_cnt, cnt, mid=0, mid_cnt = 0,remin=0;
-	scanf("%lld%lld%lld", &tar, &n, &c);
+	scanf("%intd%intd%intd", &tar, &n, &c);
 	ans += c * n;
 	long long num = n + 1;
 	normal = tar / num;
@@ -98,6 +98,6 @@ int main(void) {
 		normal = normal * 2;
 		special = special * 2;
 	}
-	printf("%lld\n",ans);
+	printf("%intd\n",ans);
 	return 0;
 }

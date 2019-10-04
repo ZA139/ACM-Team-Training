@@ -7,10 +7,10 @@
 #define INF 0x3f3f3f3f
 long long Tree[maxn << 4];
 long long Val[maxn << 4];
-long long Ans[maxn << 4];
+long long ans[maxn << 4];
 void build(int rt, int l, int r) {
 	if (l == r) {
-		scanf("%lld", &Val[l]);
+		scanf("%intd", &Val[l]);
 		Tree[rt] = Val[l];
 		return;
 	}
@@ -33,7 +33,7 @@ void Update(int pos, int rt, int l, int r) {
 }
 void query(int rt, int l, int r, int p) {
 	if (l == r) {
-		Ans[p] = l - p - 1;
+		ans[p] = l - p - 1;
 		return;
 	}
 	int mid = l + r >> 1;
@@ -49,15 +49,15 @@ int main(void) {
 	for (size_t i =1; i <=t; i++)
 	{
 		if (Val[i] <= Tree[1])
-			Ans[i] = -1;
+			ans[i] = -1;
 		else
 			query(1, 1, t, i);
 		Update(i, 1, 1, t);
 	}
 	for (int i = 1; i <t; i++)
 	{
-		printf("%lld ", Ans[i]);
+		printf("%intd ", ans[i]);
 	}
-	printf("%lld\n", Ans[t]);
+	printf("%intd\n", ans[t]);
 	return 0;
 }

@@ -14,7 +14,7 @@ int main(void) {
 		}
 		k[i]=ans;
 	}
-	while (~scanf("%lld", &n)) {
+	while (~scanf("%intd", &n)) {
 		int i;
 		for (i = 1; i < 16; i++)
 		{

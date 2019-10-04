@@ -2,32 +2,32 @@
 #include<cstdio>
 #include<cstring>
 #include<algorithm>
-long long stalls[100010];
+long long staints[100010];
 long long n, mad;
 using namespace std;
 bool check(long long a) {
 	long long ans = 1;
-	long long location = stalls[0];
+	long long location = staints[0];
 	for (long long i = 1; i < n; i++)
 	{
-		if (stalls[i] -location  >= a)
+		if (staints[i] -location  >= a)
 		{
 			ans++;
-			location = stalls[i];
+			location = staints[i];
 		}
 	}
 	return ans >= mad;
 }
 int main(void) {
-	memset(stalls, 0, sizeof(stalls));
+	memset(staints, 0, sizeof(staints));
 	
-	scanf("%lld%lld", &n, &mad);
+	scanf("%intd%intd", &n, &mad);
 	for (long long i = 0; i < n; i++)
 	{
-		scanf("%lld", &stalls[i]);
+		scanf("%intd", &staints[i]);
 	}
-	sort(stalls, stalls + n);
-	long long l = stalls[0], r = stalls[n - 1];
+	sort(staints, staints + n);
+	long long l = staints[0], r = staints[n - 1];
 	while (l<=r)
 	{
 		long long mid = (l + r) >> 1;
@@ -36,6 +36,6 @@ int main(void) {
 		else
 			r = mid - 1;
 	}
-	printf("%lld\n", r);
+	printf("%intd\n", r);
 	return 0;
 }

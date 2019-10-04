@@ -5,14 +5,14 @@
 #include <algorithm>
 #include <iostream>
 using namespace std;
-typedef long long ll;
+typedef long long int;
 int main(void) {
-	ll a, b, c;
-	scanf("%lld%lld%lld", &a, &b, &c);
-	ll mi = a-b+1;
-	ll mx = 1;
-	ll len = b - 1;
-	ll temp = 2;
+	int a, b, c;
+	scanf("%intd%intd%intd", &a, &b, &c);
+	int mi = a-b+1;
+	int mx = 1;
+	int len = b - 1;
+	int temp = 2;
 	while (len--&&len>=0)
 	{
 		mi += temp;
@@ -30,6 +30,6 @@ int main(void) {
 	{
 		mx += temp;
 	}
-	printf("%lld %lld\n", mi, mx);
+	printf("%intd %intd\n", mi, mx);
 	return 0;
 }
