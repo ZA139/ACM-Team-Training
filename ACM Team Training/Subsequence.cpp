@@ -1,38 +1,38 @@
 #include<cstdio>
-#include<cstring>
-int nums[100005];
-int ss[100005];
+#include<algorithm>
+using namespace std;
+long long num[100005];
 int main(void) {
-	long long n,m,sum = 0;
+	long long s, ans;
 	int t;
 	scanf("%d", &t);
-	memset(ss, 0, sizeof(ss));
 	while (t--)
 	{
-		sum = 0;
-		scanf("%lld%lld", &n, &m);
-		for (int  i = 0; i <n; i++)
+		bool flag = false;
+		ans = 99999999999999;
+		long long n;
+		scanf("%lld%lld", &n, &s);
+		for (long long i = 0; i < n; i++)
 		{
-			scanf("%d", &nums[i]);
-			sum += nums[i];
-			ss[i] = sum;
-			if (nums[i] >= m) {
-				printf("1\n");
-				goto x;
+			scanf("%lld", &num[i]);
+		}
+		long long right = 0, left = 0, sum = 0;
+		while (right <= n)
+		{
+			if (sum < s) {
+				sum += num[right];
+				right++;
+			}
+			else {
+				flag = true;
+				ans = min(ans, right - left);
+				sum -= num[left];
+				left++;
 			}
 		}
-		for (int i = 1; i <n; i++)
-		{
-			for (int j = 0; j+i < n; j ++) {
-				if (ss[j + i] - ss[j] >= m)
-				{
-					printf("%d\n", i);
-					goto x;
-				}
-			}
-		}
-	x:
-		sum = 0;
+		if (!flag)
+			ans = 0;
+		printf("%lld\n", ans);
 	}
 	return 0;
 }

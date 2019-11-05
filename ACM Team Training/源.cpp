@@ -1,25 +1,56 @@
-#include<iostream>
-#include<cstring>
+#include<cstdio>
+#include<algorithm>
 using namespace std;
-int a[2000];
-int pi = 3.1415;
+int num[105], ans[105], suf[105];
 int main(void) {
-	int t;
-	memset(a, 0, sizeof(a));
-	a[1] = 1;
-	a[2] = 2;
-	a[3] = 3;
-	for (int i = 4; i < 2000; i++)
+	//freopen("txt.txt", "w", stdout);
+	int n;
+	scanf("%d", &n);
+	while (n)
 	{
-		a[i] = a[i - 1] + a[i-3];
-	}
-	ios::sync_with_stdio(false);
-	cin >> t;
-	while (t)
-	{
-		while (1);
-		cout << a[t] << endl;
-		cin >> t;
+		long long a = 0, b = 0;
+		for (int i = 1; i <= n; i++)
+		{
+			scanf("%d", &num[i]);
+			ans[i] = ans[i - 1] + num[i];
+		}
+		for (int i = n; i > 0; i--)
+		{
+			suf[i] = suf[i + 1] + num[i];
+		}
+		int index = 0;
+		for (int i = 1; i <= n; i++)
+		{
+			if (a < ans[i]) {
+				index = i;
+				a = ans[i];
+			}
+		}
+		int ind = n + 1;
+		int cnt = 0;
+		for (int i = index + 1; i < n + 1; i++)
+		{
+			if (b < suf[i]) {
+				cnt = 1;
+				ind = i;
+				b = suf[i];
+			}
+		}
+		while (index + 1 != ind && index != ind)
+		{
+			if (cnt & 1) {
+				index++;
+				a += num[index];
+				cnt++;
+			}
+			else {
+				ind--;
+				b += num[ind];
+				cnt++;
+			}
+		}
+		printf("%lld\n", max(a - b, b - a));
+		scanf("%d", &n);
 	}
 	return 0;
 }

@@ -9,9 +9,6 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="源文件\AC">
-      <UniqueIdentifier>{30e0be28-ba38-44ae-99bf-b4bcf3ef927a}</UniqueIdentifier>
-    </Filter>
     <Filter Include="源文件\UNAC">
       <UniqueIdentifier>{4d71c5d1-3c37-4aa5-9b3a-655f230d8b67}</UniqueIdentifier>
     </Filter>
@@ -90,6 +87,15 @@
     </Filter>
     <Filter Include="源文件\CodeForces\9-23 codeforces 1230">
       <UniqueIdentifier>{825b5604-548f-4bb4-a8c0-704f99982ba4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CometOj">
+      <UniqueIdentifier>{bb7e0651-606b-4400-9fb3-6538e97c0993}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CodeForces\10-13 codeforces">
+      <UniqueIdentifier>{b334e480-298b-432d-bba6-d2ab2f2f15e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\AC">
+      <UniqueIdentifier>{30e0be28-ba38-44ae-99bf-b4bcf3ef927a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -465,9 +471,6 @@
     <ClCompile Include="小明上学.cpp">
       <Filter>源文件\CCF</Filter>
     </ClCompile>
-    <ClCompile Include="Subsequence.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="简单线段树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -504,12 +507,6 @@
     <ClCompile Include="9-23 C.cpp">
       <Filter>源文件\CodeForces\9-23 codeforces 1230</Filter>
     </ClCompile>
-    <ClCompile Include="源.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="源1.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="9-29A.cpp">
       <Filter>源文件\CodeForces\9-29 codeforces</Filter>
     </ClCompile>
@@ -535,6 +532,123 @@
       <Filter>源文件\CodeForces\9-23 codeforces 1230</Filter>
     </ClCompile>
     <ClCompile Include="4 Values Sum is 0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1464 Function.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P1141 01迷宫.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Best Cow Line.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="面试奶牛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="面试水仙花.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="鱼目混珠.cpp">
+      <Filter>源文件\CometOj</Filter>
+    </ClCompile>
+    <ClCompile Include="宝可梦,就决定是你了.cpp">
+      <Filter>源文件\CometOj</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10-13A.cpp">
+      <Filter>源文件\CodeForces\10-13 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="10-13B.cpp">
+      <Filter>源文件\CodeForces\10-13 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="10-13D.cpp">
+      <Filter>源文件\CodeForces\10-13 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="10-13C.cpp">
+      <Filter>源文件\CodeForces\10-13 codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="Dragon of Loowater.cpp">
+      <Filter>源文件\CodeForces</Filter>
+    </ClCompile>
+    <ClCompile Include="T神A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Commando War.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Of Sum.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="Face The Right Way.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Age Sort.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="Help is needed for Dexter.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="Spreading the Wealth.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="Open Credit System.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculator Conundrum.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="Ivan the Fool and the Probability Theory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="By Elevator or Stairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="骚动时节的少女们.cpp">
+      <Filter>源文件\CometOj</Filter>
+    </ClCompile>
+    <ClCompile Include="Gree的心房.cpp">
+      <Filter>源文件\CodeForces</Filter>
+    </ClCompile>
+    <ClCompile Include="taobanji的题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cojA.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="贪吃蛇.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Piotr%27s Ants.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="Fill the Square.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="Subsequence.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="Even Parity.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="A Careful Approach.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="食物链.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Super-palindrome.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Fence Repair.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mafia联系.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
