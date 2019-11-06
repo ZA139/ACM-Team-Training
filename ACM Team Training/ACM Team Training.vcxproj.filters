@@ -651,6 +651,9 @@
     <ClCompile Include="Mafia联系.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Payment without change.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="txt.txt">
