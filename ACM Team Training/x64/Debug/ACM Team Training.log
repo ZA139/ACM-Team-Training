@@ -1,0 +1,1137 @@
+﻿  01string.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\01string.cpp(8): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\01string.cpp(8): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\01string.cpp(8): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\01string.cpp(8): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\01string.cpp(17): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\01string.cpp(28): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\01string.cpp(28): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\01string.cpp(28): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\01string.cpp(28): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\01string.cpp(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\01string.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  10-13A.cpp
+  10-13B.cpp
+  10-13C.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\10-13c.cpp(34): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  10-13D.cpp
+  1001.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\1001.cpp(32): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\1001.cpp(32): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\1001.cpp(32): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\1001.cpp(32): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\1001.cpp(52): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\1001.cpp(52): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\1001.cpp(52): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\1001.cpp(52): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\1001.cpp(26): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\1001.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\1001.cpp(32): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\1001.cpp(23): warning C4101: “temp”: 未引用的局部变量
+  1002.cpp
+  1003.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\1003.cpp(13): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\1003.cpp(13): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\1003.cpp(13): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\1003.cpp(13): note: 请考虑在格式字符串中使用“%I64i”
+  1004.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\1004.cpp(15): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\1004.cpp(15): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\1004.cpp(15): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\1004.cpp(15): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\1004.cpp(24): error C3861: “intabs”: 找不到标识符
+c:\users\a1399\source\repos\acm team training\acm team training\1004.cpp(26): error C3861: “intabs”: 找不到标识符
+c:\users\a1399\source\repos\acm team training\acm team training\1004.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\1004.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  1005.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(40): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(40): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(40): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(40): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(40): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(40): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(40): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(40): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(40): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 3 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(40): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(40): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(40): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(101): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(101): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(101): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(101): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\1005.cpp(40): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  1006.cpp
+  1007.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\1007.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  1008.cpp
+  1009.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\1009.cpp(45): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+c:\users\a1399\source\repos\acm team training\acm team training\1009.cpp(41): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\1009.cpp(55): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\1009.cpp(58): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\1009.cpp(62): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\1009.cpp(67): warning C4102: “x”: 未引用的标签
+  1010.cpp
+  1221A.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\1221a.cpp(32): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\1221a.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\1221a.cpp(21): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\1221a.cpp(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  4 Values Sum is 0.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\4 values sum is 0.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\4 values sum is 0.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  8-20A.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\8-20a.cpp(8): warning C4091: “typedef ”: 没有声明变量时忽略“__int64”的左侧
+c:\users\a1399\source\repos\acm team training\acm team training\8-20a.cpp(13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  8-20B.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\8-20b.cpp(8): warning C4091: “typedef ”: 没有声明变量时忽略“__int64”的左侧
+c:\users\a1399\source\repos\acm team training\acm team training\8-20b.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  8-22 A.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\8-22 a.cpp(8): warning C4091: “typedef ”: 没有声明变量时忽略“__int64”的左侧
+c:\users\a1399\source\repos\acm team training\acm team training\8-22 a.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\8-22 a.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\8-22 a.cpp(18): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  正在生成代码...
+  正在编译...
+  8-22 CF B.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\8-22 cf b.cpp(9): warning C4091: “typedef ”: 没有声明变量时忽略“__int64”的左侧
+  8-30 B.cpp
+  8-30A.cpp
+  9-21 B.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\9-21 b.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\9-21 b.cpp(20): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  9-21 C.cpp
+  9-21 D.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\9-21 d.cpp(34): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\9-21 d.cpp(38): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  9-22 A.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\9-22 a.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\9-22 a.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  9-22 B.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\9-22 b.cpp(97): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\9-22 b.cpp(100): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\9-22 b.cpp(104): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  9-22 C.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\9-22 c.cpp(5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\9-22 c.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\9-22 c.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  9-22I.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\9-22i.cpp(4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\9-22i.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  9-23 a.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\9-23 a.cpp(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  9-23 b.cpp
+  9-23 C.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\9-23 c.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\9-23 c.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  9-29A.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\9-29a.cpp(19): warning C4101: “ans”: 未引用的局部变量
+  A Careful Approach.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\a careful approach.cpp(25): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\a careful approach.cpp(32): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  A+B线段树.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(16): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(17): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(18): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(19): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(20): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(21): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(22): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(23): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(24): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(25): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(26): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(27): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(28): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(29): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(30): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(31): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(32): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(33): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(34): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(35): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(36): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(37): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(38): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(39): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(40): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(41): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(42): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(43): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(44): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(45): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(46): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(47): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(48): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(49): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(50): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(51): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(52): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(53): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(54): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(55): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(56): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(57): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(58): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(59): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(60): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(61): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(62): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(63): warning C4068: 未知的杂注
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(67): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\a+b线段树.cpp(76): warning C4091: “typedef ”: 没有声明变量时忽略“__int64”的左侧
+  Age Sort.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\age sort.cpp(6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\age sort.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Bad Prices.cpp
+  Broken Keyboard.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\broken keyboard.cpp(9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\broken keyboard.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  By Elevator or Stairs.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\by elevator or stairs.cpp(2): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\by elevator or stairs.cpp(6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\by elevator or stairs.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\by elevator or stairs.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  正在生成代码...
+  正在编译...
+  Cable Master.cpp
+  Calculator Conundrum.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\calculator conundrum.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\calculator conundrum.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  CCPC 1001.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\ccpc 1001.cpp(8): warning C4091: “typedef ”: 没有声明变量时忽略“__int64”的左侧
+c:\users\a1399\source\repos\acm team training\acm team training\ccpc 1001.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\ccpc 1001.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  CCPC 1007.cpp
+  8-22B.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\8-22b.cpp(3): warning C4091: “typedef ”: 没有声明变量时忽略“__int64”的左侧
+c:\users\a1399\source\repos\acm team training\acm team training\8-22b.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\8-22b.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  8-22F.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\8-22f.cpp(46): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\8-22f.cpp(53): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  8-22I.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\8-22i.cpp(21): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22i.cpp(21): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22i.cpp(21): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22i.cpp(21): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\8-22i.cpp(31): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\8-22i.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\8-22i.cpp(21): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  8-22J.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(5): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(5): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(5): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(5): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(5): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(5): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(5): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(5): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(5): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 3 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(5): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(5): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(5): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(35): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(35): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(35): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(35): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\8-22j.cpp(5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  A substr.cpp
+  A.Adrien and Austin .cpp
+  Balanced Substring.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\balanced substring.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Buy Tickets.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\buy tickets.cpp(12): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+c:\users\a1399\source\repos\acm team training\acm team training\buy tickets.cpp(18): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+c:\users\a1399\source\repos\acm team training\acm team training\buy tickets.cpp(33): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\buy tickets.cpp(37): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  CCPC 1006.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\ccpc 1006.cpp(5): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Christmas Spruce.cpp
+  cojA.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\coja.cpp(5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Dragon of Loowater.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\dragon of loowater.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\dragon of loowater.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\dragon of loowater.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Equalize Prices Again.cpp
+  Even Parity.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\even parity.cpp(46): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\even parity.cpp(50): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\even parity.cpp(54): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Face The Right Way.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\face the right way.cpp(34): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Fence Repair.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\fence repair.cpp(20): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\fence repair.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\fence repair.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  正在生成代码...
+  正在编译...
+  Fill the Square.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\fill the square.cpp(6): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(243): note: 参见“freopen”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\fill the square.cpp(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\fill the square.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\fill the square.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Game Of Sum.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\game of sum.cpp(22): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\game of sum.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Gree的心房.cpp
+  Help is needed for Dexter.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\help is needed for dexter.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Ivan the Fool and the Probability Theory.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\ivan the fool and the probability theory.cpp(2): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\ivan the fool and the probability theory.cpp(3): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\ivan the fool and the probability theory.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Jessica's Reading Problem .cpp
+c:\users\a1399\source\repos\acm team training\acm team training\jessica's reading problem .cpp(21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\jessica's reading problem .cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\jessica's reading problem .cpp(18): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\jessica's reading problem .cpp(14): warning C4101: “b”: 未引用的局部变量
+  Mafia.cpp
+  Mafia联系.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\mafia联系.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\mafia联系.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Marcin and Training Camp D.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\marcin and training camp d.cpp(69): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\marcin and training camp d.cpp(71): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\marcin and training camp d.cpp(75): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Open Credit System.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\open credit system.cpp(20): error C2065: “mi”: 未声明的标识符
+c:\users\a1399\source\repos\acm team training\acm team training\open credit system.cpp(20): error C2672: “std::max”: 未找到匹配的重载函数
+c:\users\a1399\source\repos\acm team training\acm team training\open credit system.cpp(20): error C2784: “_Ty std::max(std::initializer_list<_Elem>)”: 未能从“__int64”为“std::initializer_list<_Elem>”推导 模板 参数
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(5399): note: 参见“std::max”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\open credit system.cpp(20): error C2780: “const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(5385): note: 参见“std::max”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\open credit system.cpp(20): error C2780: “_Ty std::max(std::initializer_list<_Elem>,_Pr)”: 应输入 2 个参数，却提供了 1 个
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(5375): note: 参见“std::max”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\open credit system.cpp(20): error C2780: “const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)”: 应输入 3 个参数，却提供了 1 个
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(5367): note: 参见“std::max”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\open credit system.cpp(6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\open credit system.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\open credit system.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  P1141 01迷宫.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\p1141 01迷宫.cpp(15): warning C4477: “scanf”: 格式字符串“%1d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+  c:\users\a1399\source\repos\acm team training\acm team training\p1141 01迷宫.cpp(15): note: 请考虑在格式字符串中使用“%hd”
+c:\users\a1399\source\repos\acm team training\acm team training\p1141 01迷宫.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\p1141 01迷宫.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  P1464 Function.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\p1464 function.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Payment without change.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\payment without change.cpp(4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\payment without change.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Piotr's Ants.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\piotr's ants.cpp(20): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\piotr's ants.cpp(25): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\piotr's ants.cpp(30): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\piotr's ants.cpp(26): warning C4101: “ch”: 未引用的局部变量
+  Pocky.cpp
+  PTA二分.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\pta二分.cpp(13): warning C4101: “ans”: 未引用的局部变量
+  Best Cow Line.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\best cow line.cpp(18): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\best cow line.cpp(22): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Relic Discovery.cpp
+  Spreading the Wealth.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\spreading the wealth.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\spreading the wealth.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Subsequence.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\subsequence.cpp(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\subsequence.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\subsequence.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  正在生成代码...
+  正在编译...
+  Super-palindrome.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\super-palindrome.cpp(64): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  taobanji的题.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\taobanji的题.cpp(20): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\taobanji的题.cpp(23): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\taobanji的题.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\taobanji的题.cpp(31): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  T神A.cpp
+  xvzhouB.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(23): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(23): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(23): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(23): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(27): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(27): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(27): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(27): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(27): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(27): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(27): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(27): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(30): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(30): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(30): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(30): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(30): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(30): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(30): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(30): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\xvzhoub.cpp(30): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Crossword Answers.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\crossword answers.cpp(33): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\crossword answers.cpp(39): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\crossword answers.cpp(48): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Curious Robin Hood.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\curious robin hood.cpp(17): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+c:\users\a1399\source\repos\acm team training\acm team training\curious robin hood.cpp(28): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+c:\users\a1399\source\repos\acm team training\acm team training\curious robin hood.cpp(40): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+c:\users\a1399\source\repos\acm team training\acm team training\curious robin hood.cpp(49): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+c:\users\a1399\source\repos\acm team training\acm team training\curious robin hood.cpp(60): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\curious robin hood.cpp(66): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\curious robin hood.cpp(69): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\curious robin hood.cpp(76): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\curious robin hood.cpp(82): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  xvzhou.cpp
+  D.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\d.cpp(5): error C2086: “std::string s1”: 重定义
+  c:\users\a1399\source\repos\acm team training\acm team training\d.cpp(5): note: 参见“s1”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\d.cpp(25): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  F.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\f.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\f.cpp(19): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  FatMouse.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\fatmouse.cpp(22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  G.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\g.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\g.cpp(18): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\g.cpp(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\g.cpp(40): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\g.cpp(23): warning C4101: “t”: 未引用的局部变量
+  Ilya Long Walk.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\ilya long walk.cpp(7): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\ilya long walk.cpp(7): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\ilya long walk.cpp(7): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\ilya long walk.cpp(7): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\ilya long walk.cpp(14): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\ilya long walk.cpp(14): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\ilya long walk.cpp(14): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\ilya long walk.cpp(14): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\ilya long walk.cpp(32): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\ilya long walk.cpp(32): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\ilya long walk.cpp(32): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\ilya long walk.cpp(32): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\ilya long walk.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\ilya long walk.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  J.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\j.cpp(15): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\j.cpp(15): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\j.cpp(15): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\j.cpp(15): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\j.cpp(5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Jessica book.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\jessica book.cpp(60): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\jessica book.cpp(52): warning C4101: “b”: 未引用的局部变量
+  KickDown.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\kickdown.cpp(8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\kickdown.cpp(9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\kickdown.cpp(20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\kickdown.cpp(41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\kickdown.cpp(42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\kickdown.cpp(49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\kickdown.cpp(50): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  KIll bats.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\kill bats.cpp(6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\kill bats.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Largest Rectangle in a Histogram.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\largest rectangle in a histogram.cpp(126): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\largest rectangle in a histogram.cpp(127): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\largest rectangle in a histogram.cpp(108): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\largest rectangle in a histogram.cpp(117): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Maze.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\maze.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\maze.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Modular Exponentiation.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\modular exponentiation.cpp(11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Pie（模拟）.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(13): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(13): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(13): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(13): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(17): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(17): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(17): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(17): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(17): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(17): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(17): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(17): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(30): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(31): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\pie（模拟）.cpp(21): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  正在生成代码...
+  正在编译...
+  Uniqueness.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\uniqueness.cpp(13): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\uniqueness.cpp(13): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\uniqueness.cpp(13): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\uniqueness.cpp(13): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\uniqueness.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\uniqueness.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  YinChuanA.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(13): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(13): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(13): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(13): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(13): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(13): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(13): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(13): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(16): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(16): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(16): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(16): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(51): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(51): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(51): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(51): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\yinchuana.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  YinChuanB.cpp
+  YinChuanC.cpp
+  YinChuanD.cpp
+  YinChuanE.cpp
+  YinChuanF.cpp
+  二分pie.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(17): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(23): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(23): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(23): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(23): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(27): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(27): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(27): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(27): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(27): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(27): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(27): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(27): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(23): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\二分pie.cpp(31): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  二分POJ 2456.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(24): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(24): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(24): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(24): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(24): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(24): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(24): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(24): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(27): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(27): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(27): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(27): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(39): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(39): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(39): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(39): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\二分poj 2456.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  二十四点.cpp
+  仰视奶牛.cpp
+  Email frome Polycarp(WA).cpp
+  Odd Sum Segments.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\odd sum segments.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+  P1002 DFS（TLE）.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\p1002 dfs（tle）.cpp(33): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\p1002 dfs（tle）.cpp(34): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  宝可梦,就决定是你了.cpp
+  小A点菜.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\小a点菜.cpp(6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\小a点菜.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  小中大.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\小中大.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\小中大.cpp(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\小中大.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\小中大.cpp(18): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\小中大.cpp(25): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\小中大.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\小中大.cpp(32): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\小中大.cpp(39): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  小明上学.cpp
+  小鱼会有危险吗.cpp
+  开心的金明.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\开心的金明.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\开心的金明.cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\开心的金明.cpp(8): warning C4101: “temp”: 未引用的局部变量
+  正在生成代码...
+c:\users\a1399\source\repos\acm team training\acm team training\odd sum segments.cpp(29): error C4716: “slove”: 必须返回一个值
+  正在编译...
+  数字反转.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\数字反转.cpp(10): error C3861: “atoint”: 找不到标识符
+  暴力烤鸡.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\暴力烤鸡.cpp(16): warning C4101: “y”: 未引用的局部变量
+  Queue.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(13): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(13): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(13): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(13): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(17): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(27): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(39): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(59): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(59): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(59): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(59): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(61): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(61): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(61): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(61): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\queue.cpp(47): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  测试数据生成姬.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\测试数据生成姬.cpp(5): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  All In All.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\all in all.cpp(7): error C2059: 语法错误:“-”
+c:\users\a1399\source\repos\acm team training\acm team training\all in all.cpp(7): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\a1399\source\repos\acm team training\acm team training\all in all.cpp(7): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  无敌模拟hello 2018 （CF 2016E）.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\无敌模拟hello 2018 （cf 2016e）.cpp(25): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\无敌模拟hello 2018 （cf 2016e）.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\无敌模拟hello 2018 （cf 2016e）.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\无敌模拟hello 2018 （cf 2016e）.cpp(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  源.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\源.cpp(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\源.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\源.cpp(53): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Commando War.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\commando war.cpp(14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\commando war.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  源1.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\源1.cpp(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  贪吃蛇.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\贪吃蛇.cpp(83): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\贪吃蛇.cpp(91): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\贪吃蛇.cpp(69): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\贪吃蛇.cpp(74): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  险恶的迷宫.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\险恶的迷宫.cpp(6): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\险恶的迷宫.cpp(7): error C3861: “SqrtByNewton”: 找不到标识符
+c:\users\a1399\source\repos\acm team training\acm team training\险恶的迷宫.cpp(23): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\险恶的迷宫.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  面试奶牛.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\面试奶牛.cpp(5): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  面试水仙花.cpp
+  矿泉水.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\矿泉水.cpp(21): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\矿泉水.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\矿泉水.cpp(20): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  简单线段树.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\简单线段树.cpp(65): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\简单线段树.cpp(71): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\简单线段树.cpp(73): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  酸菜鱼线段树D.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\酸菜鱼线段树d.cpp(14): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\酸菜鱼线段树d.cpp(22): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\酸菜鱼线段树d.cpp(31): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\酸菜鱼线段树d.cpp(40): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\酸菜鱼线段树d.cpp(5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\酸菜鱼线段树d.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  9-21 A.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\9-21 a.cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\9-21 a.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  食物链.cpp
+  骚动时节的少女们.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\骚动时节的少女们.cpp(6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\骚动时节的少女们.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  鱼目混珠.cpp
+  正在生成代码...
+  正在编译...
+  （POW精度问题）快速幂A Math Problem.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\（pow精度问题）快速幂a math problem.cpp(17): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\（pow精度问题）快速幂a math problem.cpp(17): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\（pow精度问题）快速幂a math problem.cpp(17): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\（pow精度问题）快速幂a math problem.cpp(17): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\（pow精度问题）快速幂a math problem.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\（pow精度问题）快速幂a math problem.cpp(28): error C2059: 语法错误:“常数”
+  A Simple Math Problem(exgcd).cpp
+  cf b.cpp
+  ISBN.cpp
+  Milk.cpp
+  POJ 3070 Fabonacci（矩阵快速幂）.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\poj 3070 fabonacci（矩阵快速幂）.cpp(55): fatal error C1083: 无法打开包括文件: “bits/stdc++.h”: No such file or directory
+  Rails.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\rails.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\rails.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\rails.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  RopeWALKER.cpp
+  The Block Problem.cpp
+  The Third Cup is Free .cpp
+c:\users\a1399\source\repos\acm team training\acm team training\the third cup is free .cpp(5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\the third cup is free .cpp(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\the third cup is free .cpp(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Three Piles of Candies.cpp
+  Ugly Numbers.cpp
+  Uva10474.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\uva10474.cpp(26): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\uva10474.cpp(9): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(243): note: 参见“freopen”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\uva10474.cpp(10): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(243): note: 参见“freopen”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\uva10474.cpp(11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\uva10474.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\uva10474.cpp(22): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Vim.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\vim.cpp(37): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\vim.cpp(38): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\vim.cpp(41): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\vim.cpp(100): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\vim.cpp(98): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\vim.cpp(256): warning C4129: “ ”: 不可识别的字符转义序列
+c:\users\a1399\source\repos\acm team training\acm team training\vim.cpp(500): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\vim.cpp(502): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\vim.cpp(506): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\vim.cpp(509): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\vim.cpp(559): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: 参见“ctime”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\vim.cpp(584): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\vim.cpp(604): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Your Ride is here.cpp
+  zhl飞行棋.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\zhl飞行棋.cpp(129): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(243): note: 参见“freopen”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\zhl飞行棋.cpp(133): warning C4101: “target”: 未引用的局部变量
+  【洛谷】密码.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\【洛谷】密码.cpp(5): warning C4101: “ans”: 未引用的局部变量
+  分数和.cpp
+  又见GCD.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\又见gcd.cpp(17): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  小花布.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\小花布.cpp(17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\小花布.cpp(18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  开门人和关门人.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\开门人和关门人.cpp(21): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\开门人和关门人.cpp(26): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  开门人和关门人（WA).cpp
+c:\users\a1399\source\repos\acm team training\acm team training\开门人和关门人（wa).cpp(72): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  排名(STL WA).cpp
+c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(25): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(25): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(25): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(25): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(28): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(28): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(28): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(28): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(28): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(28): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(28): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(28): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(37): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(37): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(37): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(37): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(40): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(40): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(40): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(40): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(25): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(28): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(31): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(37): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(40): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(240): warning C4244: “初始化”: 从“_Ty”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(54): note: 参见对正在编译的函数 模板 实例化“std::pair<std::string,int>::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,__int64,0>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,__int64> &&) noexcept”的引用
+  c:\users\a1399\source\repos\acm team training\acm team training\排名(stl wa).cpp(54): note: 参见对正在编译的函数 模板 实例化“std::pair<std::string,int>::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,__int64,0>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,__int64> &&) noexcept”的引用
+  排名.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\排名.cpp(24): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\排名.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\排名.cpp(30): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\排名.cpp(35): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\排名.cpp(38): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  杭州车牌.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\杭州车牌.cpp(45): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\杭州车牌.cpp(45): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\杭州车牌.cpp(45): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\杭州车牌.cpp(45): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\杭州车牌.cpp(47): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\杭州车牌.cpp(47): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\杭州车牌.cpp(47): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\杭州车牌.cpp(47): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\杭州车牌.cpp(34): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\杭州车牌.cpp(48): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  游泳航程(AC).cpp
+  Easy As A+B.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(38): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(38): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(40): error C2059: 语法错误:“for”
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(40): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(40): error C2143: 语法错误: 缺少“;”(在“!=”的前面)
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(40): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(40): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(40): error C2086: “int it”: 重定义
+  c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(40): note: 参见“it”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(40): error C2059: 语法错误:“)”
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(48): error C2065: “vtMap”: 未声明的标识符
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(54): error C2440: “初始化”: 无法从“<lambda_6269bef009078a5b2ee255087f04124a>”转换为“int”
+  c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(54): note: 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(60): error C2059: 语法错误:“for”
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(60): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(60): error C2143: 语法错误: 缺少“;”(在“!=”的前面)
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(60): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(60): error C2086: “int it”: 重定义
+  c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(40): note: 参见“it”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(60): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(60): error C2059: 语法错误:“)”
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(64): error C2059: 语法错误:“return”
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(66): error C2059: 语法错误:“}”
+c:\users\a1399\source\repos\acm team training\acm team training\easy as a+b.cpp(66): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  A.cpp
+  Fancy Fence .cpp
+c:\users\a1399\source\repos\acm team training\acm team training\fancy fence .cpp(12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  T-primes.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\t-primes.cpp(7): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\t-primes.cpp(24): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\t-primes.cpp(24): warning C4244: “初始化”: 从“long double”转换到“__int64”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\t-primes.cpp(25): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+  未知题目.cpp
+  文件操作测试.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\文件操作测试.cpp(9): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\文件操作测试.cpp(24): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\文件操作测试.cpp(25): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\文件操作测试.cpp(26): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+  烤鸡调料.cpp
+  矩形a+b.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\矩形a+b.cpp(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\矩形a+b.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  二分砍树.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(27): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(27): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(27): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(27): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(27): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(27): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(27): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(27): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(30): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(30): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(30): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(30): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(40): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(40): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(40): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(40): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\二分砍树.cpp(30): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  素因子.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\素因子.cpp(8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\素因子.cpp(37): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\素因子.cpp(41): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  组合数.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\组合数.cpp(27): error C3861: “intabs”: 找不到标识符
+c:\users\a1399\source\repos\acm team training\acm team training\组合数.cpp(30): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\组合数.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\组合数.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\组合数.cpp(20): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  美国大选.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\美国大选.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\美国大选.cpp(16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  谁没睡.cpp
+  素数回文(MLE).cpp
+c:\users\a1399\source\repos\acm team training\acm team training\素数回文(mle).cpp(22): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  素数回文（无耻的打表）.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\素数回文（无耻的打表）.cpp(5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  美素数.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\美素数.cpp(9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\美素数.cpp(42): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\美素数.cpp(63): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  苹果.cpp
+  计数问题.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\计数问题.cpp(14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\计数问题.cpp(13): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+  二分跳石头.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(16): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(23): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(23): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(23): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(23): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(23): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(23): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(23): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(23): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(23): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 3 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(23): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(23): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(23): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(27): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(27): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(27): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(27): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(40): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(40): note: 请考虑在格式字符串中使用“%lli”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(40): note: 请考虑在格式字符串中使用“%Ii”
+  c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(40): note: 请考虑在格式字符串中使用“%I64i”
+c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(23): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\a1399\source\repos\acm team training\acm team training\二分跳石头.cpp(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  迷宫.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\迷宫.cpp(41): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  陶陶果子2.cpp
+  青蛙见面.cpp
+c:\users\a1399\source\repos\acm team training\acm team training\青蛙见面.cpp(5): warning C4101: “m”: 未引用的局部变量
+c:\users\a1399\source\repos\acm team training\acm team training\青蛙见面.cpp(5): warning C4101: “y”: 未引用的局部变量
+c:\users\a1399\source\repos\acm team training\acm team training\青蛙见面.cpp(5): warning C4101: “l”: 未引用的局部变量
+c:\users\a1399\source\repos\acm team training\acm team training\青蛙见面.cpp(5): warning C4101: “x”: 未引用的局部变量
+c:\users\a1399\source\repos\acm team training\acm team training\青蛙见面.cpp(5): warning C4101: “n”: 未引用的局部变量
+  正在生成代码...

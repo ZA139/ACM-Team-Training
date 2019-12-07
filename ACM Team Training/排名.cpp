@@ -2,13 +2,13 @@
 #include<string.h>
 #include<algorithm>
 using namespace std;
-struct Node
+struct ASS
 {
 	char name[50];
 	long score=0;
 }node[1050];
 
-bool cmp(Node a, Node b) {
+bool cmp(ASS a, ASS b) {
 	if (a.score != b.score)
 		return a.score > b.score;
 	return strcmp(a.name, b.name) > 0 ? 0 : 1;

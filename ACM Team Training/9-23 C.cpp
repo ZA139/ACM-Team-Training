@@ -5,7 +5,7 @@
 using namespace std;
 int n, m;
 int zhangwentaodashuaibi[100][100];
-int list[100];
+int heights[100];
 int main() {
 	scanf("%d %d", &n, &m);
 	int be, en;
@@ -18,14 +18,14 @@ int main() {
 	for (int i = 1; i <= 7; i++) {
 		for (int j = i + 1; j <= 7; j++) {
 			if (zhangwentaodashuaibi[i][j]) {
-				list[i]++;
+				heights[i]++;
 			}
 		}
 	}
 
 	int ans = 100000;
 	for (int i = 1; i <= 7; i++) {
-		cnt += list[i];
+		cnt += heights[i];
 		//cout<<list[i]<<" "<<i<<endl;
 	}
 	if (cnt >15) cout << 16 << endl;

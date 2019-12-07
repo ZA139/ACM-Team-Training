@@ -1,6 +1,2 @@
-﻿  Payment without change.cpp
-c:\users\a1399\source\repos\acm team training\acm team training\payment without change.cpp(4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
-c:\users\a1399\source\repos\acm team training\acm team training\payment without change.cpp(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+﻿  s.cpp
   ACM Team Training.vcxproj -> C:\Users\a1399\source\repos\ACM Team Training\Debug\ACM Team Training.exe

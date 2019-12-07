@@ -3,12 +3,12 @@
 using namespace std;
 #pragma warning (disable : 4996)
 const int maxn = 1e5 + 100;
-struct node {
+struct ASS {
 	int x;
 	int y;
 	int z;
 }num[maxn];
-bool cmp(node a, node b) {
+bool cmp(ASS a, ASS b) {
 	if (a.y == b.y)
 		return a.z > b.z;
 	return a.y < b.y;
