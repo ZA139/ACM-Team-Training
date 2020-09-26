@@ -5,7 +5,7 @@
 #include<algorithm>
 const int INF = 99999999;
 short zhangwentaodashuaibi[10005][10005];
-bool vis[10005];
+bool map[10005];
 int dis[10005];
 int ans = INF;
 int temp = 0;
@@ -15,7 +15,7 @@ using namespace std;
 void dfs(int a) {
 	if (!ans)
 		return;
-	vis[a] = 1;
+	map[a] = 1;
 	if (a == b) {
 		ans = min(ans, temp);
 		flag = 1;
@@ -23,14 +23,14 @@ void dfs(int a) {
 	}
 	for (int i = 1; i <=n; i++)
 	{
-		if (zhangwentaodashuaibi[a][i] == 0&&!vis[i]) {
+		if (zhangwentaodashuaibi[a][i] == 0&&!map[i]) {
 			dfs(i);
-			vis[i] = 0;
+			map[i] = 0;
 		}
-		else if (zhangwentaodashuaibi[a][i] == 1 && !vis[i]) {
+		else if (zhangwentaodashuaibi[a][i] == 1 && !map[i]) {
 			temp += 1;
 			dfs(i);
-			vis[i] = 0;
+			map[i] = 0;
 			temp -= 1;
 		}
 	}
@@ -48,7 +48,7 @@ int main(void) {
 	{
 		dis[i] = 999;
 	}
-	memset(vis, 0, sizeof(vis));
+	memset(map, 0, sizeof(map));
 	for (int i = 1; i <= n; i++)
 	{ 
 		int t;

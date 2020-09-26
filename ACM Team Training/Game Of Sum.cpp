@@ -2,11 +2,11 @@
 #include<algorithm>
 #include<cstring>
 using namespace std;
-int S[110], A[110], d[110][110], vis[110][110], n;
+int S[110], A[110], d[110][110], map[110][110], n;
 int dp(int i, int j) {
-	if (vis[i][j])
+	if (map[i][j])
 		return d[i][j];
-	vis[i][j] = 1;
+	map[i][j] = 1;
 	int m = 0;
 	for (int k = i+1; k <=j; k++)
 	{
@@ -27,7 +27,7 @@ int main(void) {
 			scanf("%d", &A[i]);
 			S[i] = S[i - 1] + A[i];
 		}
-		memset(vis, 0, sizeof(vis));
+		memset(map, 0, sizeof(map));
 		printf("%d\n", 2 * dp(1, n) - S[n]);
 	}
 	return 0;

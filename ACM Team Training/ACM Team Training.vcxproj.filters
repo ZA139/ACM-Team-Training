@@ -660,9 +660,6 @@
     <ClCompile Include="niuke.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="牛客B.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="1124A.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -670,9 +667,6 @@
       <Filter>源文件\AC</Filter>
     </ClCompile>
     <ClCompile Include="1262A.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="899D.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="cy的上升序列.cpp">
@@ -696,7 +690,43 @@
     <ClCompile Include="adsd.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="s.cpp">
+    <ClCompile Include="Suffix Three.cpp">
+      <Filter>源文件\CodeForces\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="[2002普及组-A]级数求和.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="P1618 三连击.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="P1579 哥德巴赫猜想（升级版）.cpp">
+      <Filter>源文件\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Azamon Web Services.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客wyh的.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Yet Another Broken Board.cpp">
+      <Filter>源文件\CodeForces\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="Three Friends.cpp">
+      <Filter>源文件\CodeForces\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="Snow Walking Robot.cpp">
+      <Filter>源文件\CodeForces\Pratice</Filter>
+    </ClCompile>
+    <ClCompile Include="Temporarily unavailable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Level Statistics.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="899D.cpp">
+      <Filter>源文件\CSP认证2019-09-15</Filter>
+    </ClCompile>
+    <ClCompile Include="Invoker.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

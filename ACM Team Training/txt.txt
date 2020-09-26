@@ -1,1 +1,115 @@
-Case 1: 173:48
+#include<cstdio>
+#include<cmath>
+#include<algorithm>
+#include<cstring>
+#include<iostream>
+#include<cstdlib>
+#include<string>
+#include<set>
+#include<vector>
+#include<map>
+#include<queue>
+using namespace std;
+
+#define getT long long t;scanf("%lld",&t)
+#define getN long long n;scanf("%lld",&n)
+#define for0n(n) getN; for(long long i=0;i<n;i++)
+#define for1n(n) getN; for(long long i=1;i<=n;i++)
+#define for0(n) for(long long i=0;i<n;i++)
+#define for1(n)  for(long long i=1;i<=n;i++)
+#define mo 5
+
+typedef long long ll;
+ll a, mod;
+ll fac = 0;
+ll r, ndr, nv;
+namespace lwq {
+	ll Prime[400000], count[400000];
+}
+ll gcd(ll a, ll b) {
+	return a % b == 0 ? b : gcd(b, a%b);
+}
+
+ll pow(ll a, ll b) {
+	ll an = 1;
+	ll base = a % mod;
+	while (b > 0) {
+		if (b & 1 != 0) {
+			an = (an*base) % mod;
+		}
+		base = (base*base) % mod;
+		b >>= 1;
+	}
+	return an%mod;
+}
+
+ll inv(ll a) {
+	return pow(a, mod - 2);
+}
+ll lcm(ll a, ll b) {
+	return a * b / gcd(a, b);
+}
+ll check(ll a, ll b, ll c, ll d ){
+	if (a>= c) {
+		return (b / a - 1);
+	}
+	else {
+		return d - a;
+	}
+}
+ll createfun(ll c,ll k) {
+	for0(nv) {
+		lwq::count[i] = k / (i + 1);
+	}
+	for (ll i = r; i < nv; i++) {
+		lwq::count[i] = lwq::count[i - 1] - 1;
+	}
+	for0(nv) {
+		lwq::Prime[i] = lwq::count[i] * (lwq::count[i] + 1) / 2 - 1;
+	}
+	for (ll p = 2; p <= r; p++) {
+		if (lwq::Prime[nv - p] > lwq::Prime[nv - p + 1]) {
+			ll sp = lwq::count[nv - p + 1];
+			ll p2 = p * p;
+			for0(nv){
+				if (lwq::count[i] >= p2) {
+					lwq::Prime[i] -= p * (lwq::Prime[check(lwq::count[i] / p, k, ndr, nv)] - sp);
+				}
+				else break;
+			}
+		}
+	}
+	return lwq::Prime[0];
+}
+ll getprimesum(ll n)
+{
+	r = (ll)sqrt(n);
+	ndr = n / r;
+	nv = r + ndr - 1;
+	return createfun(nv,n);
+}
+ll getfac(ll n) {
+	ll res = 0;
+	res += n;
+	res += mod;
+	res %= mod;
+	ll te = n * (n - 1);
+	te += mod;
+	te %= mod;
+	te /= 2;
+	te += mod;
+	te %= mod;
+	res += te;
+	res += mod;
+	res %= mod;
+	return res;
+}
+int main(void) {
+	getT;
+	while (t--)
+	{
+		scanf("%lld%lld", &a, &mod);
+		printf("%lld\n", ((getprimesum(a+1)+mod)%mod+getfac(a+1)-mo+mod)%mod);
+	}
+	return 0;
+}

@@ -1,2 +1,5 @@
-﻿  s.cpp
-  ACM Team Training.vcxproj -> C:\Users\a1399\source\repos\ACM Team Training\Debug\ACM Team Training.exe
+﻿  Level Statistics.cpp
+e:\repos\acm team training\acm team training\level statistics.cpp(32): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+e:\repos\acm team training\acm team training\level statistics.cpp(68): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  ACM Team Training.vcxproj -> E:\repos\ACM Team Training\Debug\ACM Team Training.exe

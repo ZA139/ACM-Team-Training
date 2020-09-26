@@ -7,12 +7,12 @@
 	const int N = 3005;
 	long long m[N][N];
 	vector<int>v[N];
-	bool vis[N];
+	bool map[N];
 	void slove(int a) {
-		vis[a] = 1;
+		map[a] = 1;
 		for (vector<int>::iterator it=v[a].begin(); it!=v[a].end(); it++)
 		{
-			if (!vis[*it]) {
+			if (!map[*it]) {
 				slove(*it);
 			}
 		}
@@ -21,7 +21,7 @@
 	int main(void) {
 		int t, k;
 		int temp;
-		memset(vis, 0, sizeof(vis));
+		memset(map, 0, sizeof(map));
 		long long cnt = 1, ans = 0;
 		scanf("%d", &t);
 		scanf("%d", &k);
@@ -38,7 +38,7 @@
 		}
 		for (int i = 0; i <t; i++)
 		{
-			if (!vis[i])
+			if (!map[i])
 			{
 				slove(i);
 				ans++;
@@ -46,7 +46,7 @@
 		}
 		for (int i = 0; i < t; i++)
 		{
-			if (!vis[i])
+			if (!map[i])
 				ans++;
 		}
 		printf("%intd\n", ans);

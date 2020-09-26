@@ -43,7 +43,7 @@ void QuickPower(int N) {
 }
 int a[maxn];
 int num[1000010];
-int vis[maxn];
+int map[maxn];
 vector<int> v;
 int main()
 {

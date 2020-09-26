@@ -63,7 +63,7 @@ ll n, a[7005], b[7005];
 ll ans;
 vector <int> V;
 map <ll, int> cnt;
-bool vis[7005];
+bool map[7005];
 int main()
 {
 	scanf("%lld", &n);
@@ -80,17 +80,17 @@ int main()
 	for (int i = 1; i <= n; i++) {
 		if (cnt[a[i]] > 1) {
 			V.push_back(i);
-			vis[i] = true;
+			map[i] = true;
 		}
 	}
 	for (int i = 1; i <= n; i++)
 	{
-		if (vis[i])
+		if (map[i])
 			continue;
 		for (auto A : V) {
 			if (a[A] > a[i] && ((a[A] & a[i]) == a[i])) {
 				V.push_back(i);
-				vis[i] = true;
+				map[i] = true;
 				break;
 			}
 		}

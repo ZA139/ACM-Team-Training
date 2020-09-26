@@ -3,14 +3,14 @@
 #include<cstring>
 using namespace std;
 string s;
-bool vis[8];
+bool map[8];
 int main(void) {
 	int t;
 	ios::sync_with_stdio(false);
 	cin >> t;
 	while (t--)
 	{
-		memset(vis, 0, sizeof(vis));
+		memset(map, 0, sizeof(map));
 		cin >> s;
 		long long sum= 0;
 		for (int i = 1; i <7; i+=2)

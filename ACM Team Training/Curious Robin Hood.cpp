@@ -17,7 +17,6 @@ void build(int rt, int l, int r) {
 	int mid = l + r >> 1;
 	build(rt << 1, l, mid);
 	build(rt << 1 | 1, mid + 1, r);
-
 	camps[rt].num = camps[rt << 1].num + camps[rt << 1 | 1].num;
 }
 void add(int rt, int p, int val) {
