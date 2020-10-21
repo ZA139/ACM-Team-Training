@@ -720,18 +720,27 @@
     <ClCompile Include="Temporarily unavailable.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Level Statistics.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="899D.cpp">
       <Filter>源文件\CSP认证2019-09-15</Filter>
     </ClCompile>
     <ClCompile Include="Invoker.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="k-Amazing Numbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Unix ls.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
+    <ClCompile Include="DataBase.cpp">
+      <Filter>源文件\紫书</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="txt.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="Input.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>

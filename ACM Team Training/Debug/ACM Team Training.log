@@ -1,5 +1,62 @@
-﻿  Level Statistics.cpp
-e:\repos\acm team training\acm team training\level statistics.cpp(32): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
-e:\repos\acm team training\acm team training\level statistics.cpp(68): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  DataBase.cpp
+e:\repos\acm team training\acm team training\database.cpp(33): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+e:\repos\acm team training\acm team training\database.cpp(84): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
-  ACM Team Training.vcxproj -> E:\repos\ACM Team Training\Debug\ACM Team Training.exe
+e:\repos\acm team training\acm team training\database.cpp(87): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(1108): error C2664: “bool main::<lambda_dd66d29a1039f80c4127cc66724948af>::operator ()(ll,ll) const”: 无法将参数 1 从“ll [100]”转换为“ll”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(1108): note: 没有使该转换得以执行的上下文
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(1107): note: 参见对正在编译的函数 模板 实例化“bool std::_Debug_lt_pred<_Pr&,ll(&)[100],ll(&)[100]>(main::<lambda_dd66d29a1039f80c4127cc66724948af>&,_Ty1,_Ty2) noexcept(<expr>)”的引用
+          with
+          [
+              _Pr=main::<lambda_dd66d29a1039f80c4127cc66724948af>,
+              _Ty1=ll (&)[100],
+              _Ty2=ll (&)[100]
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(4000): note: 参见对正在编译的函数 模板 实例化“std::pair<_RanIt,_RanIt> std::_Partition_by_median_guess_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_Pr)”的引用
+          with
+          [
+              _RanIt=__int64 (*)[100],
+              _Pr=main::<lambda_dd66d29a1039f80c4127cc66724948af>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(4034): note: 参见对正在编译的函数 模板 实例化“void std::_Sort_unchecked<_Ty(*),_Fn>(_RanIt,_RanIt,int,_Pr)”的引用
+          with
+          [
+              _Ty=ll [100],
+              _Fn=main::<lambda_dd66d29a1039f80c4127cc66724948af>,
+              _RanIt=__int64 (*)[100],
+              _Pr=main::<lambda_dd66d29a1039f80c4127cc66724948af>
+          ]
+  e:\repos\acm team training\acm team training\database.cpp(91): note: 参见对正在编译的函数 模板 实例化“void std::sort<ll(*)[100],main::<lambda_dd66d29a1039f80c4127cc66724948af>>(const _RanIt,const _RanIt,_Pr)”的引用
+          with
+          [
+              _RanIt=ll (*)[100],
+              _Pr=main::<lambda_dd66d29a1039f80c4127cc66724948af>
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(1108): error C2056: 非法表达式
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3907): error C2664: “bool main::<lambda_dd66d29a1039f80c4127cc66724948af>::operator ()(ll,ll) const”: 无法将参数 1 从“ll [100]”转换为“ll”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3907): note: 没有使该转换得以执行的上下文
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3914): error C2664: “bool main::<lambda_dd66d29a1039f80c4127cc66724948af>::operator ()(ll,ll) const”: 无法将参数 1 从“ll [100]”转换为“ll”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3914): note: 没有使该转换得以执行的上下文
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3929): error C2664: “bool main::<lambda_dd66d29a1039f80c4127cc66724948af>::operator ()(ll,ll) const”: 无法将参数 1 从“ll [100]”转换为“ll”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3929): note: 没有使该转换得以执行的上下文
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3949): error C2664: “bool main::<lambda_dd66d29a1039f80c4127cc66724948af>::operator ()(ll,ll) const”: 无法将参数 1 从“ll [100]”转换为“ll”
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3949): note: 没有使该转换得以执行的上下文
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3051): error C2075: "_Val": 数组初始化需要带括号的初始值设定项列表
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(4018): note: 参见对正在编译的函数 模板 实例化“void std::_Make_heap_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_Pr)”的引用
+          with
+          [
+              _RanIt=__int64 (*)[100],
+              _Pr=main::<lambda_dd66d29a1039f80c4127cc66724948af>
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3830): error C2075: "_Val": 数组初始化需要带括号的初始值设定项列表
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(4023): note: 参见对正在编译的函数 模板 实例化“_BidIt std::_Insertion_sort_unchecked<_RanIt,_Pr>(_BidIt,const _BidIt,_Pr)”的引用
+          with
+          [
+              _BidIt=__int64 (*)[100],
+              _RanIt=__int64 (*)[100],
+              _Pr=main::<lambda_dd66d29a1039f80c4127cc66724948af>
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3835): error C3863: 不可指定数组类型“ll [100]”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3843): error C3863: 不可指定数组类型“ll [100]”
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(3846): error C3863: 不可指定数组类型“ll [100]”
